@@ -2,10 +2,7 @@
   "name": "ScrollMagic",
   "filename": "ScrollMagic.min.js",
   "description": "The javascript library for magical scroll interactions.",
-  "author": {
-    "name": "Jan Paepke",
-    "url": "http://www.janpaepke.de"
-  },
+  "author": "Jan Paepke",
   "licenses": [
     "MIT",
     "GPL-3.0+"

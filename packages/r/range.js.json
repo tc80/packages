@@ -1,8 +1,5 @@
 {
-  "author": {
-    "email": "jscoderr@gmail.com",
-    "name": "Florian H."
-  },
+  "author": "Florian H. <jscoderr@gmail.com>",
   "description": "JavaScript's missing range function.",
   "license": "MIT",
   "name": "range.js",

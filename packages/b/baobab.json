@@ -12,10 +12,7 @@
     "tree",
     "react"
   ],
-  "author": {
-    "name": "Guillaume Plique",
-    "url": "https://github.com/Yomguithereal"
-  },
+  "author": "Guillaume Plique",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

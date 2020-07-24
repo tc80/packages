@@ -1,10 +1,7 @@
 {
   "name": "recompose",
   "filename": "Recompose.min.js",
-  "author": {
-    "name": "Andrew Clark",
-    "email": "acdlite@me.com"
-  },
+  "author": "Andrew Clark <acdlite@me.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acdlite/recompose.git"

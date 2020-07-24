@@ -9,11 +9,7 @@
     "js"
   ],
   "homepage": "http://bootstrapswitch.com",
-  "author": {
-    "name": "Mattia Larentis",
-    "email": "mattia@larentis.eu",
-    "url": "http://larentis.eu"
-  },
+  "author": "Mattia Larentis <mattia@larentis.eu>",
   "repository": {
     "type": "git",
     "url": "git://github.com/Bttstrp/bootstrap-switch.git"

@@ -8,11 +8,7 @@
     "url": "https://github.com/sindresorhus/github-markdown-css"
   },
   "homepage": "https://sindresorhus.com/github-markdown-css/",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
-  },
+  "author": "Sindre Sorhus <sindresorhus@gmail.com>",
   "keywords": [
     "browser",
     "github",

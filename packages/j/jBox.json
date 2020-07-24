@@ -13,10 +13,7 @@
     "images"
   ],
   "homepage": "http://stephanwagner.me/jBox",
-  "author": {
-    "name": "Stephan Wagner",
-    "url": "http://stephanwagner.me"
-  },
+  "author": "Stephan Wagner",
   "license": "MIT",
   "repository": {
     "type": "git",

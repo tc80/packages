@@ -1,10 +1,7 @@
 {
   "name": "asynquence",
   "filename": "asq.js",
-  "author": {
-    "email": "getify@gmail.com",
-    "name": "Kyle Simpson"
-  },
+  "author": "Kyle Simpson <getify@gmail.com>",
   "description": "promise-style async sequence flow-control",
   "keywords": [
     "async",

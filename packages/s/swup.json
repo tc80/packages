@@ -7,9 +7,7 @@
     "page",
     "transition"
   ],
-  "author": {
-    "name": "Georgy Marchuk"
-  },
+  "author": "Georgy Marchuk",
   "license": "MIT",
   "homepage": "https://github.com/gmrchk/swup#readme",
   "repository": {

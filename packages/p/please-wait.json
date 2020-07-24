@@ -1,10 +1,7 @@
 {
   "name": "please-wait",
   "filename": "please-wait.min.js",
-  "author": {
-    "name": "Pathgather",
-    "email": "tech@pathgather.com"
-  },
+  "author": "Pathgather <tech@pathgather.com>",
   "description": "Display a nice loading screen while your app loads",
   "keywords": [
     "PleaseWait.js",

@@ -1,10 +1,7 @@
 {
   "name": "sevenSeg.js",
   "filename": "sevenSeg.min.js",
-  "author": {
-    "name": "Brandon L White",
-    "email": "brandonlwhite@gmail.com"
-  },
+  "author": "Brandon L White <brandonlwhite@gmail.com>",
   "keywords": [
     "ui",
     "control",

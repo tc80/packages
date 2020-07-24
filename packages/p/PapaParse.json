@@ -24,10 +24,7 @@
     "jquery-plugin"
   ],
   "homepage": "http://papaparse.com",
-  "author": {
-    "name": "Matthew Holt",
-    "url": "https://twitter.com/mholt6"
-  },
+  "author": "Matthew Holt",
   "filename": "papaparse.min.js",
   "autoupdate": {
     "source": "git",

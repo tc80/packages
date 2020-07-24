@@ -1,8 +1,5 @@
 {
-  "author": {
-    "name": "Daybrush",
-    "url": "https://github.com/daybrush"
-  },
+  "author": "Daybrush",
   "description": "Scene.js is JavaScript & CSS timeline-based animation library.",
   "filename": "scene.min.js",
   "homepage": "https://daybrush.com/scenejs",

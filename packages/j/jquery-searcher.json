@@ -12,10 +12,7 @@
     "list",
     "connect"
   ],
-  "author": {
-    "name": "Lukas Beranek",
-    "email": "lukasberanek@gmx.net"
-  },
+  "author": "Lukas Beranek <lukasberanek@gmx.net>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/lloiser/jquery-searcher.git",

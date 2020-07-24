@@ -13,11 +13,7 @@
     "animation",
     "form"
   ],
-  "author": {
-    "name": "Yair Even Or",
-    "email": "vsync.design@gmail.com",
-    "url": "https://github.com/yairEO"
-  },
+  "author": "Yair Even Or <vsync.design@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -8,10 +8,7 @@
     "vue2",
     "vue"
   ],
-  "author": {
-    "name": "myronliu347",
-    "email": "myronliu347@gmail.com"
-  },
+  "author": "myronliu347 <myronliu347@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/museui/muse-ui#readme",
   "repository": {

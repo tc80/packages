@@ -13,10 +13,7 @@
     "chassis",
     "webcomponent"
   ],
-  "author": {
-    "name": "Corey Butler",
-    "url": "http://coreybutler.com"
-  },
+  "author": "Corey Butler",
   "license": "MIT",
   "homepage": "http://ngn.js.org",
   "autoupdate": {

@@ -8,9 +8,7 @@
     "edit",
     "form"
   ],
-  "author": {
-    "name": "Steve Ratcliffe"
-  },
+  "author": "Steve Ratcliffe",
   "homepage": "https://bitbucket.org/itinken/jinplace",
   "license": "MIT",
   "repository": {

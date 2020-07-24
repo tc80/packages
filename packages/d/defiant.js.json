@@ -2,11 +2,7 @@
   "name": "defiant.js",
   "filename": "defiant.min.js",
   "description": "Search JSON structures plus smart templating with XSLT and XPath.",
-  "author": {
-    "name": "Hakan Bilgin",
-    "email": "hbi@longscript.com",
-    "url": "https://github.com/hbi99"
-  },
+  "author": "Hakan Bilgin <hbi@longscript.com>",
   "keywords": [
     "json",
     "xpath",

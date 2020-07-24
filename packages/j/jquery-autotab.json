@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Mathachew/jquery-autotab.git"
   },
-  "author": {
-    "name": "Matthew Miller",
-    "url": "https://github.com/Mathachew"
-  },
+  "author": "Matthew Miller",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -11,10 +11,7 @@
     "touching",
     "pixel"
   ],
-  "author": {
-    "name": "Gilmore Davidson",
-    "url": "https://shoehornwithteeth.com/"
-  },
+  "author": "Gilmore Davidson",
   "homepage": "https://gilmoreorless.github.io/jquery-nearest/",
   "repository": {
     "type": "git",

@@ -13,11 +13,7 @@
     "web-components",
     "vue"
   ],
-  "author": {
-    "name": "Martin Janys",
-    "email": "martinjanys@gmail.com",
-    "url": "https://github.com/mjanys"
-  },
+  "author": "Martin Janys <martinjanys@gmail.com>",
   "license": "MIT",
   "homepage": "http://appcomponents.org/material-components",
   "autoupdate": {

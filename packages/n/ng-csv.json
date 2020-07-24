@@ -11,11 +11,7 @@
     "angularjs",
     "csv"
   ],
-  "author": {
-    "name": "Asaf David",
-    "email": "asafdav@gmail.com",
-    "url": "http://about.me/asafdavid"
-  },
+  "author": "Asaf David <asafdav@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

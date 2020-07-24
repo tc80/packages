@@ -12,8 +12,5 @@
     "url": "https://github.com/syntaxhighlighter/syntaxhighlighter.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Alex Gorbatchev",
-    "url": "https://github.com/alexgorbatchev"
-  }
+  "author": "Alex Gorbatchev"
 }

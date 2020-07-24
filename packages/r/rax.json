@@ -25,8 +25,5 @@
     ]
   },
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "yuanyan",
-    "email": "yuanyan.cao@alibaba-inc.com"
-  }
+  "author": "yuanyan <yuanyan.cao@alibaba-inc.com>"
 }

@@ -3,10 +3,7 @@
   "title": "Idle Timer",
   "description": "provides you a way to monitor user activity with a page.",
   "filename": "idle-timer.min.js",
-  "author": {
-    "name": "Paul Irish",
-    "email": "paul.irish@gmail.com"
-  },
+  "author": "Paul Irish <paul.irish@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/thorst/jquery-idletimer.git"

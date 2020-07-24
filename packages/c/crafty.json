@@ -3,10 +3,7 @@
   "filename": "crafty-min.js",
   "homepage": "http://craftyjs.com/",
   "title": "Crafty game framework",
-  "author": {
-    "name": "Louis Stowasser",
-    "url": "http://craftyjs.com/"
-  },
+  "author": "Louis Stowasser",
   "licenses": [
     "MIT",
     {

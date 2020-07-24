@@ -19,11 +19,7 @@
     "medium-zoom",
     "zoomable"
   ],
-  "author": {
-    "name": "Francois Chalifour",
-    "email": "francois.chalifour@gmail.com",
-    "url": "https://francoischalifour.com"
-  },
+  "author": "Francois Chalifour <francois.chalifour@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/francoischalifour/medium-zoom#readme",
   "repository": {

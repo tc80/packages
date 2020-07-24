@@ -12,10 +12,7 @@
     "pager",
     "navigation"
   ],
-  "author": {
-    "name": "Robert Eisele",
-    "url": "https://www.xarg.org/"
-  },
+  "author": "Robert Eisele",
   "licenses": [
     "MIT",
     "GPL-2.0"

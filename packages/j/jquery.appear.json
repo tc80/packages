@@ -8,11 +8,7 @@
     "appear",
     "disappear"
   ],
-  "author": {
-    "name": "Andrey Sidorov",
-    "email": "takandar@gmail.com",
-    "url": "https://github.com/morr/jquery.appear/blob/master/AUTHORS.txt"
-  },
+  "author": "Andrey Sidorov <takandar@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/morr/jquery.appear"

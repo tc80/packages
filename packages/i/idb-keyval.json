@@ -10,9 +10,7 @@
     "storage",
     "promise"
   ],
-  "author": {
-    "name": "Jake Archibald"
-  },
+  "author": "Jake Archibald",
   "license": "Apache-2.0",
   "homepage": "https://github.com/jakearchibald/idb-keyval#readme",
   "repository": {

@@ -7,10 +7,7 @@
     "localStorage",
     "sessionStorage"
   ],
-  "author": {
-    "name": "G. Kay Lee",
-    "email": "balancetraveller+github@gmail.com"
-  },
+  "author": "G. Kay Lee <balancetraveller+github@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/gsklee/ngStorage.git",

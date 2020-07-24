@@ -2,10 +2,7 @@
   "name": "string-saw",
   "filename": "saw.js",
   "description": "provides an easy way to string together match/replacement operations in an error-free manner",
-  "author": {
-    "name": "Chad Scira",
-    "email": "chadvscira@gmail.com"
-  },
+  "author": "Chad Scira <chadvscira@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/icodeforlove/string-saw.git"

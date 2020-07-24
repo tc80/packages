@@ -15,10 +15,7 @@
     "moment.js",
     "angular"
   ],
-  "author": {
-    "name": "Indri Muska",
-    "email": "indrimuska@gmail.com"
-  },
+  "author": "Indri Muska <indrimuska@gmail.com>",
   "license": "MIT",
   "homepage": "https://indrimuska.github.io/angular-moment-picker",
   "autoupdate": {

@@ -10,11 +10,7 @@
     "slider",
     "image"
   ],
-  "author": {
-    "name": "Ivan Lazarevic",
-    "url": "http://workshop.rs",
-    "email": "devet.sest@gmail.com"
-  },
+  "author": "Ivan Lazarevic <devet.sest@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

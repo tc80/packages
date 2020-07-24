@@ -12,10 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/stellar/js-stellar-sdk.git"
   },
-  "author": {
-    "name": "Stellar Development Foundation",
-    "email": "hello@stellar.org"
-  },
+  "author": "Stellar Development Foundation <hello@stellar.org>",
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",

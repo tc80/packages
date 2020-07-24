@@ -18,10 +18,7 @@
     "mobile",
     "tablet"
   ],
-  "author": {
-    "name": "Nicolas Gryman",
-    "email": "ngryman@gmail.com"
-  },
+  "author": "Nicolas Gryman <ngryman@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

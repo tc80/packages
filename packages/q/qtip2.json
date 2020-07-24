@@ -10,11 +10,7 @@
     "jQuery",
     "plugin"
   ],
-  "author": {
-    "name": "Craig Michael Thompson",
-    "email": "craig@craigsworks.com",
-    "web": "http://craigsworks.com"
-  },
+  "author": "Craig Michael Thompson <craig@craigsworks.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/qTip2/qTip2.git"

@@ -2,10 +2,7 @@
   "name": "react-bootstrap-select",
   "filename": "js/bootstrap-select.min.js",
   "description": "A custom <select> for react-bootstrap using button dropdown as replacement",
-  "author": {
-    "name": "Travis Webb <me@traviswebbcom>",
-    "url": "https://github.com/tjwebb"
-  },
+  "author": "Travis Webb <me@traviswebbcom>",
   "repository": {
     "type": "git",
     "url": "git://github.com/tjwebb/react-bootstrap-select.git"

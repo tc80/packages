@@ -2,10 +2,7 @@
   "name": "vue-material",
   "description": "Material Design for Vue.js",
   "filename": "vue-material.min.js",
-  "author": {
-    "name": "Marcos Moura",
-    "email": "marcosvmmoura@gmail.com"
-  },
+  "author": "Marcos Moura <marcosvmmoura@gmail.com>",
   "homepage": "https://vuematerial.github.io",
   "license": "MIT",
   "repository": {

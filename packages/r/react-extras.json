@@ -1,8 +1,5 @@
 {
-  "author": {
-    "name": "Sindre Sorhus",
-    "url": "sindresorhus.com"
-  },
+  "author": "Sindre Sorhus",
   "description": "Useful components and utilities for working with React",
   "filename": "index.js",
   "keywords": [

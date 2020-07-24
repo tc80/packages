@@ -8,12 +8,7 @@
     "trackingjs",
     "webrtc"
   ],
-  "author": {
-    "name": "Eduardo Lundgren",
-    "email": "edu@rdo.io",
-    "web": "http://eduardo.io",
-    "twitter": "eduardolundgren"
-  },
+  "author": "Eduardo Lundgren <edu@rdo.io>",
   "repository": {
     "type": "git",
     "url": "git@github.com:eduardolundgren/tracking.js.git"

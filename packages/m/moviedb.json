@@ -12,10 +12,7 @@
     "tmdb"
   ],
   "filename": "moviedb.min.js",
-  "author": {
-    "name": "Dan Zajdband",
-    "email": "dan.zajdband@gmail.com"
-  },
+  "author": "Dan Zajdband <dan.zajdband@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "moviedb",

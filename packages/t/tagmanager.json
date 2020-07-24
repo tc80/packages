@@ -2,10 +2,7 @@
   "name": "tagmanager",
   "filename": "tagmanager.min.js",
   "title": "Tag Manager",
-  "author": {
-    "name": "Max Favilli",
-    "url": "http://maxfavilli.com"
-  },
+  "author": "Max Favilli",
   "description": "A jQuery plugin to create tag input fields, which works nicely with Twitter Typeahead.js and Twitter Bootstrap",
   "keywords": [
     "tags",

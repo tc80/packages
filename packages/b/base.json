@@ -10,9 +10,7 @@
     "lightweight",
     "responsive"
   ],
-  "author": {
-    "name": "Matthew Hartman"
-  },
+  "author": "Matthew Hartman",
   "license": "MIT",
   "homepage": "http://getbase.org/",
   "repository": {

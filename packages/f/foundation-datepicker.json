@@ -3,11 +3,7 @@
   "filename": "js/foundation-datepicker.min.js",
   "description": "Foundation datepicker jQuery plugin",
   "homepage": "http://foundation-datepicker.peterbeno.com/",
-  "author": {
-    "name": "Peter Beňo",
-    "email": "najlepsiwebdesigner@gmail.com",
-    "url": "https://about.me/peterbeno"
-  },
+  "author": "Peter Beňo <najlepsiwebdesigner@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

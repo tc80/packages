@@ -4,11 +4,7 @@
   "title": "Spectrum Colorpicker",
   "description": "Spectrum: the no hassle jQuery colorpicker",
   "homepage": "http://bgrins.github.com/spectrum",
-  "author": {
-    "name": "Brian Grinstead",
-    "email": "briangrinstead@gmail.com",
-    "url": "http://briangrinstead.com/"
-  },
+  "author": "Brian Grinstead <briangrinstead@gmail.com>",
   "keywords": [
     "color",
     "colorpicker",

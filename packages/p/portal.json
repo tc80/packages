@@ -17,10 +17,7 @@
     "url": "https://github.com/flowersinthesand/portal.git"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Donghwan Kim",
-    "email": "flowersinthesand@gmail.com"
-  },
+  "author": "Donghwan Kim <flowersinthesand@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "portal-client",

@@ -13,10 +13,7 @@
     "office",
     "offline"
   ],
-  "author": {
-    "name": "webschik",
-    "url": "https://github.com/webschik"
-  },
+  "author": "webschik",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

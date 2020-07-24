@@ -18,10 +18,7 @@
     "type": "git",
     "url": "git://github.com/brandonaaron/livequery.git"
   },
-  "author": {
-    "name": "Brandon Aaron",
-    "url": "http://brandon.aaron.sh"
-  },
+  "author": "Brandon Aaron",
   "licenses": [
     "MIT",
     "GPL-2.0"

@@ -28,8 +28,5 @@
     "url": "https://github.com/flesler/jquery.localScroll"
   },
   "license": "MIT",
-  "author": {
-    "name": "Ariel Flesler",
-    "url": "http://flesler.blogspot.com"
-  }
+  "author": "Ariel Flesler"
 }

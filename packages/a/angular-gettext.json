@@ -6,11 +6,7 @@
     "angular",
     "gettext"
   ],
-  "author": {
-    "name": "Ruben Vermeersch",
-    "email": "ruben@rocketeer.be",
-    "url": "http://rocketeer.be/"
-  },
+  "author": "Ruben Vermeersch <ruben@rocketeer.be>",
   "homepage": "http://angular-gettext.rocketeer.be/",
   "license": "MIT",
   "repository": {

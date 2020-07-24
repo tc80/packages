@@ -14,9 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/raphamorim/waterfall.js.git"
   },
-  "author": {
-    "name": "Raphael Amorim"
-  },
+  "author": "Raphael Amorim",
   "license": "MIT",
   "homepage": "http://raphamorim.io/waterfall.js/",
   "autoupdate": {

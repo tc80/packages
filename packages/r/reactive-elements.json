@@ -12,11 +12,7 @@
     "custom elements",
     "reactjs"
   ],
-  "author": {
-    "name": "Denis Radin aka PixelsCommander",
-    "email": "denis.radin@gmail.com",
-    "url": "https://pixelscommander.com/"
-  },
+  "author": "Denis Radin aka PixelsCommander <denis.radin@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

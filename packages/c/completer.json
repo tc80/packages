@@ -14,10 +14,7 @@
     "web",
     "development"
   ],
-  "author": {
-    "name": "Fengyuan Chen",
-    "url": "https://github.com/fengyuanchen"
-  },
+  "author": "Fengyuan Chen",
   "homepage": "https://fengyuanchen.github.io/completer",
   "repository": {
     "type": "git",

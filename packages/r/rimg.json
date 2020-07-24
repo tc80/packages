@@ -12,10 +12,7 @@
     "DOMContentLoaded"
   ],
   "homepage": "http://joeyvandijk.github.io/rimg",
-  "author": {
-    "name": "Joey van Dijk",
-    "email": "contact@joeyvandijk.nl"
-  },
+  "author": "Joey van Dijk <contact@joeyvandijk.nl>",
   "repository": {
     "type": "git",
     "url": "https://github.com/joeyvandijk/rimg.git"

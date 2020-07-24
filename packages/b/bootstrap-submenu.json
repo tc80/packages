@@ -9,10 +9,7 @@
     "submenu"
   ],
   "homepage": "https://vsn4ik.github.io/bootstrap-submenu/",
-  "author": {
-    "name": "Vasily A.",
-    "url": "https://github.com/vsn4ik"
-  },
+  "author": "Vasily A.",
   "repository": {
     "type": "git",
     "url": "git://github.com/vsn4ik/bootstrap-submenu"

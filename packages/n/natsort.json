@@ -14,10 +14,7 @@
     "desc",
     "case-insensitive"
   ],
-  "author": {
-    "name": "bubkooo",
-    "email": "bubkoo.wy@gmail.com"
-  },
+  "author": "bubkooo <bubkoo.wy@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/netop/natsort#readme",
   "repository": {

@@ -12,11 +12,7 @@
     "sentences"
   ],
   "homepage": "https://www.robbestad.com/blog/procedurally-generated-text-with-rantjs",
-  "author": {
-    "name": "Sven Anders Robbestad",
-    "email": "anders@robbestad.com",
-    "url": "http://www.robbestad.com/"
-  },
+  "author": "Sven Anders Robbestad <anders@robbestad.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/svenanders/rantjs.git"

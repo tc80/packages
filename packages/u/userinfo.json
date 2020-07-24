@@ -7,11 +7,7 @@
     "geolocation",
     "location"
   ],
-  "author": {
-    "name": "Vincent DURMONT",
-    "email": "vdurmont@gmail.com",
-    "url": "http://vincent-durmont.com/"
-  },
+  "author": "Vincent DURMONT <vdurmont@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/vdurmont/userinfo-js.git",

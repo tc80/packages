@@ -3,11 +3,7 @@
   "description": "The ultimate JavaScript string library",
   "filename": "voca.min.js",
   "homepage": "https://vocajs.com",
-  "author": {
-    "name": "Dmitri Pavlutin",
-    "email": "dmitri@rainsoft.io",
-    "url": "https://rainsoft.io/about-me/"
-  },
+  "author": "Dmitri Pavlutin <dmitri@rainsoft.io>",
   "license": "MIT",
   "keywords": [
     "string",

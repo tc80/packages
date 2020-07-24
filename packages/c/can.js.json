@@ -13,11 +13,7 @@
     "url": "git@github.com:canjs/canjs.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Bitovi",
-    "email": "contact@bitovi.com",
-    "web": "http://bitovi.com/"
-  },
+  "author": "Bitovi <contact@bitovi.com>",
   "autoupdate": {
     "source": "npm",
     "target": "can",

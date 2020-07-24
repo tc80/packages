@@ -1,10 +1,7 @@
 {
   "name": "flexMenu",
   "filename": "flexmenu.min.js",
-  "author": {
-    "name": "Ryan DeBeasi",
-    "email": "hi@ryandebeasi.com"
-  },
+  "author": "Ryan DeBeasi <hi@ryandebeasi.com>",
   "description": "FlexMenu lets you create menu bars that automatically collapse into a drop-down to fit the space available.",
   "keywords": [
     "menu",

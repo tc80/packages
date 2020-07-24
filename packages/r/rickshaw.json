@@ -14,10 +14,7 @@
     "scatterplot"
   ],
   "homepage": "http://code.shutterstock.com/rickshaw/",
-  "author": {
-    "name": "David Chester",
-    "email": "david@shutterstock.com"
-  },
+  "author": "David Chester <david@shutterstock.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/shutterstock/rickshaw.git"

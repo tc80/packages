@@ -3,11 +3,7 @@
   "description": "Touch enabled jQuery plugin for creating responsive carousels and sliders.",
   "filename": "jquery.bxslider.min.js",
   "homepage": "http://bxslider.com",
-  "author": {
-    "name": "Steven Wanderski",
-    "email": "steven@bxcreative.com",
-    "url": "http://stevenwanderski.com"
-  },
+  "author": "Steven Wanderski <steven@bxcreative.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

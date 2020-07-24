@@ -10,10 +10,7 @@
     "type": "git",
     "url": "https://github.com/corejavascript/typeahead.js.git"
   },
-  "author": {
-    "name": "Twitter, Inc.",
-    "url": "https://twitter.com/twitteross"
-  },
+  "author": "Twitter, Inc.",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -10,10 +10,7 @@
     "ListView"
   ],
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "AirBnb",
-    "url": "https://github.com/airbnb"
-  },
+  "author": "AirBnb",
   "homepage": "http://airbnb.github.com/infinity",
   "repository": {
     "type": "git",

@@ -31,7 +31,5 @@
     "url": "https://github.com/leongersen/noUiSlider"
   },
   "license": "WTFPL",
-  "author": {
-    "name": "Leon Gersen"
-  }
+  "author": "Leon Gersen"
 }

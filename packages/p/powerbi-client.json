@@ -7,9 +7,7 @@
     "embedded",
     "visuals"
   ],
-  "author": {
-    "name": "Microsoft"
-  },
+  "author": "Microsoft",
   "license": "MIT",
   "homepage": "https://github.com/Microsoft/PowerBI-JavaScript#readme",
   "repository": {

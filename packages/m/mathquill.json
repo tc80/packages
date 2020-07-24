@@ -11,10 +11,7 @@
     "url": "https://github.com/mathquill/mathquill.git"
   },
   "homepage": "http://mathquill.com/",
-  "author": {
-    "name": "laughinghan",
-    "url": "https://github.com/laughinghan"
-  },
+  "author": "laughinghan",
   "license": "MPL-2.0",
   "autoupdate": {
     "source": "npm",

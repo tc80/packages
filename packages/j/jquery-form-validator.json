@@ -8,11 +8,7 @@
     "validation",
     "validator"
   ],
-  "author": {
-    "name": "Victor Jonsson",
-    "url": "http://victorjonsson.se",
-    "email": "kontakt@victorjonsson.se"
-  },
+  "author": "Victor Jonsson <kontakt@victorjonsson.se>",
   "homepage": "http://formvalidator.net",
   "repository": {
     "type": "git",

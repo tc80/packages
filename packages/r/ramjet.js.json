@@ -2,9 +2,7 @@
   "name": "ramjet.js",
   "filename": "ramjet.umd.min.js",
   "description": "Transform DOM elements into each another with smooth transitions",
-  "author": {
-    "name": "Rich Harris"
-  },
+  "author": "Rich Harris",
   "license": "MIT",
   "repository": {
     "type": "git",

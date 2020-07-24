@@ -12,11 +12,7 @@
     "type": "git",
     "url": "https://github.com/jquery-boilerplate/jquery-boilerplate.git"
   },
-  "author": {
-    "name": "Zeno Rocha",
-    "email": "zno.rocha@gmail.com",
-    "url": "https://github.com/zenorocha"
-  },
+  "author": "Zeno Rocha <zno.rocha@gmail.com>",
   "homepage": "http://jqueryboilerplate.com",
   "license": "MIT",
   "autoupdate": {

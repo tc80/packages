@@ -6,9 +6,7 @@
     "stylesheet",
     "mvp"
   ],
-  "author": {
-    "name": "Andy Brewer"
-  },
+  "author": "Andy Brewer",
   "license": "MIT",
   "homepage": "https://andybrewer.github.io/mvp/",
   "repository": {

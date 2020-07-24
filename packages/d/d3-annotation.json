@@ -11,10 +11,7 @@
     "type": "git",
     "url": "https://github.com/susielu/d3-annotation.git"
   },
-  "author": {
-    "name": "Susie Lu",
-    "url": "http://www.susielu.com"
-  },
+  "author": "Susie Lu",
   "license": "Apache-2.0",
   "homepage": "http://d3-annotation.susielu.com",
   "autoupdate": {

@@ -13,10 +13,7 @@
     "url": "https://github.com/jquery/sizzle.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "jQuery Foundation and other contributors",
-    "url": "https://github.com/jquery/sizzle/blob/master/AUTHORS.txt"
-  },
+  "author": "jQuery Foundation and other contributors",
   "autoupdate": {
     "source": "npm",
     "target": "sizzle",

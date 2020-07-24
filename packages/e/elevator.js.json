@@ -15,10 +15,7 @@
     "url": "https://github.com/tholman/elevator.js.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Tim Holman",
-    "email": "timothy.w.holman@gmail.com"
-  },
+  "author": "Tim Holman <timothy.w.holman@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "elevator.js",

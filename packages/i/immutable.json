@@ -19,10 +19,7 @@
     "url": "https://github.com/facebook/immutable-js"
   },
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "Lee Byron",
-    "url": "https://github.com/leebyron"
-  },
+  "author": "Lee Byron",
   "autoupdate": {
     "source": "npm",
     "target": "immutable",

@@ -9,10 +9,7 @@
     "tsv"
   ],
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "Mike Bostock",
-    "url": "http://bost.ocks.org/mike"
-  },
+  "author": "Mike Bostock",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/d3/d3-dsv.git"

@@ -3,10 +3,7 @@
   "description": "State-based routing for AngularJS",
   "filename": "angular-ui-router.min.js",
   "homepage": "https://angular-ui.github.com/",
-  "author": {
-    "name": "Karsten Sperling",
-    "url": "https://github.com/ksperling"
-  },
+  "author": "Karsten Sperling",
   "repository": {
     "type": "git",
     "url": "https://github.com/angular-ui/ui-router.git"

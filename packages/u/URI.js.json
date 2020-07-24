@@ -48,8 +48,5 @@
     "url": "https://github.com/medialize/URI.js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Rodney Rehm",
-    "url": "http://rodneyrehm.de"
-  }
+  "author": "Rodney Rehm"
 }

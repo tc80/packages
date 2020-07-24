@@ -17,10 +17,7 @@
     "url": "https://github.com/markgoodyear/scrollup"
   },
   "homepage": "https://markgoodyear.com/labs/scrollup/",
-  "author": {
-    "name": "Mark Goodyear",
-    "url": "https://markgoodyear.com/"
-  },
+  "author": "Mark Goodyear",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

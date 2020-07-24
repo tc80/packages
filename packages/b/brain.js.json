@@ -25,10 +25,7 @@
     "lstm",
     "gru"
   ],
-  "author": {
-    "name": "Heather Arthur",
-    "email": "fayearthur@gmail.com"
-  },
+  "author": "Heather Arthur <fayearthur@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/brainjs/brain.js#readme",
   "repository": {

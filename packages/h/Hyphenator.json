@@ -12,10 +12,7 @@
     "url": "https://github.com/mnater/Hyphenator"
   },
   "license": "MIT",
-  "author": {
-    "name": "Mathias Nater",
-    "url": "https://github.com/mnater"
-  },
+  "author": "Mathias Nater",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mnater/Hyphenator.git",

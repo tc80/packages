@@ -17,10 +17,7 @@
     "url": "https://github.com/jquery/jquery.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "jQuery Foundation and other contributors",
-    "url": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt"
-  },
+  "author": "jQuery Foundation and other contributors",
   "autoupdate": {
     "source": "npm",
     "target": "jquery",

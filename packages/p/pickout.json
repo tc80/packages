@@ -13,11 +13,7 @@
     "input",
     "modal"
   ],
-  "author": {
-    "name": "Alan Ktquez",
-    "email": "ktquez@gmail.com",
-    "url": "http://ktquez.com"
-  },
+  "author": "Alan Ktquez <ktquez@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

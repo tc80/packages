@@ -8,10 +8,7 @@
     "hover",
     "dropdowns"
   ],
-  "author": {
-    "name": "Cameron Spear",
-    "web": "http://cameronspear.com"
-  },
+  "author": "Cameron Spear",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/CWSpear/bootstrap-hover-dropdown.git",

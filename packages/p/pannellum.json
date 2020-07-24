@@ -2,10 +2,7 @@
   "name": "pannellum",
   "filename": "pannellum.js",
   "description": "Pannellum is a lightweight, free, and open source panorama viewer for the web.",
-  "author": {
-    "name": "Matthew Petroff",
-    "url": "https://mpetroff.net/"
-  },
+  "author": "Matthew Petroff",
   "repository": {
     "type": "git",
     "url": "https://github.com/mpetroff/pannellum.git"

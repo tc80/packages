@@ -10,10 +10,7 @@
     "usa",
     "choropleth"
   ],
-  "author": {
-    "name": "Kirill Lebedev",
-    "email": "echo.bjornd@gmail.com"
-  },
+  "author": "Kirill Lebedev <echo.bjornd@gmail.com>",
   "licenses": [
     {
       "type": "AGPL",

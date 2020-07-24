@@ -32,10 +32,7 @@
     "watch",
     "web"
   ],
-  "author": {
-    "name": "John Hildenbiddle",
-    "email": "http://hildenbiddle.com"
-  },
+  "author": "John Hildenbiddle <http://hildenbiddle.com>",
   "license": "MIT",
   "homepage": "https://jhildenbiddle.github.io/css-vars-ponyfill/",
   "repository": {

@@ -2,9 +2,7 @@
   "name": "cookieconsent",
   "description": "Osano cookie consent tool.",
   "keywords": [],
-  "author": {
-    "name": "Osano, Inc., a Public Benefit Corporation"
-  },
+  "author": "Osano, Inc., a Public Benefit Corporation",
   "license": "MIT",
   "homepage": "http://cookieconsent.osano.com/",
   "repository": {

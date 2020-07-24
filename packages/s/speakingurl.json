@@ -17,11 +17,7 @@
     "static url",
     "transliteration"
   ],
-  "author": {
-    "name": "Sascha Droste",
-    "email": "pid@posteo.net",
-    "url": "https://twitter.com/SaschaDroste"
-  },
+  "author": "Sascha Droste <pid@posteo.net>",
   "filename": "speakingurl.min.js",
   "license": "BSD-3-Clause",
   "autoupdate": {

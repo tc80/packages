@@ -6,9 +6,7 @@
     "regions",
     "dropdowns"
   ],
-  "author": {
-    "name": "Ben Keen"
-  },
+  "author": "Ben Keen",
   "license": "MIT",
   "homepage": "https://github.com/benkeen/country-region-dropdowns#readme",
   "repository": {

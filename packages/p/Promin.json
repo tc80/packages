@@ -2,10 +2,7 @@
   "name": "Promin",
   "filename": "js/jquery.promin.min.js",
   "description": "A jQuery plugin to boost your HTML forms to level awesome.",
-  "author": {
-    "name": "Tim Severien",
-    "url": "http://github.com/timseverien"
-  },
+  "author": "Tim Severien",
   "license": "MIT",
   "repository": {
     "type": "git",

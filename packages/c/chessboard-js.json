@@ -2,11 +2,7 @@
   "name": "chessboard-js",
   "description": "JavaScript chessboard widget",
   "keywords": [],
-  "author": {
-    "name": "Chris Oakman",
-    "email": "chris@oakmac.com",
-    "url": "http://chrisoakman.com/"
-  },
+  "author": "Chris Oakman <chris@oakmac.com>",
   "license": "MIT",
   "homepage": "https://chessboardjs.com",
   "repository": {

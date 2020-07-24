@@ -19,10 +19,7 @@
     "thumbnail",
     "resizing"
   ],
-  "author": {
-    "name": "Sebastian Tschan",
-    "url": "https://blueimp.net"
-  },
+  "author": "Sebastian Tschan",
   "repository": {
     "type": "git",
     "url": "git://github.com/blueimp/JavaScript-Load-Image.git"

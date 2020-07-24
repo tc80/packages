@@ -1,8 +1,5 @@
 {
-  "author": {
-    "name": "Alexander Petkov",
-    "url": "https://github.com/abpetkov"
-  },
+  "author": "Alexander Petkov",
   "description": "Create CSS3 transitions dynamically",
   "license": "MIT",
   "name": "transitionize",

@@ -2,10 +2,7 @@
   "name": "TypeWatch",
   "filename": "jquery.typewatch.min.js",
   "description": "A jquery plugin to determine when a user has stopped typing in a text field.",
-  "author": {
-    "name": "Denny Ferrassoli",
-    "url": "https://github.com/dennyferra"
-  },
+  "author": "Denny Ferrassoli",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dennyferra/TypeWatch"

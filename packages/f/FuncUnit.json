@@ -12,9 +12,5 @@
     "url": "https://github.com/bitovi/funcunit.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Bitovi",
-    "email": "contact@bitovi.com",
-    "web": "http://bitovi.com/"
-  }
+  "author": "Bitovi <contact@bitovi.com>"
 }

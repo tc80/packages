@@ -1,10 +1,7 @@
 {
   "name": "remark",
   "homepage": "https://remarkjs.com",
-  "author": {
-    "name": "Ole Petter Bang",
-    "url": "https://github.com/gnab"
-  },
+  "author": "Ole Petter Bang",
   "repository": {
     "type": "git",
     "url": "https://github.com/gnab/remark.git"

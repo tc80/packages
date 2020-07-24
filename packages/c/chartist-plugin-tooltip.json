@@ -2,10 +2,7 @@
   "name": "chartist-plugin-tooltip",
   "description": "Tooltip plugin for Chartist.js.",
   "keywords": [],
-  "author": {
-    "name": "Kees Kluskens",
-    "email": "kees@codeyellow.nl"
-  },
+  "author": "Kees Kluskens <kees@codeyellow.nl>",
   "license": "ISC",
   "homepage": "https://github.com/CodeYellowBV/chartist-plugin-tooltip#readme",
   "repository": {

@@ -3,11 +3,7 @@
   "filename": "meny.min.js",
   "description": "A three dimensional and space effecient menu",
   "homepage": "http://lab.hakim.se/meny/",
-  "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "url": "http://hakim.se"
-  },
+  "author": "Hakim El Hattab <hakim.elhattab@gmail.com>",
   "keywords": [
     "menu",
     "meny",

@@ -14,9 +14,5 @@
     "url": "https://github.com/browserstate/history.js.git"
   },
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "Benjamin Lupton",
-    "email": "b@lupton.cc",
-    "web": "http://balupton.com"
-  }
+  "author": "Benjamin Lupton <b@lupton.cc>"
 }

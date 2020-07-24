@@ -11,10 +11,7 @@
     "equalize",
     "columns"
   ],
-  "author": {
-    "name": "liabru",
-    "url": "http://brm.io"
-  },
+  "author": "liabru",
   "homepage": "http://brm.io/jquery-match-height/",
   "autoupdate": {
     "source": "git",

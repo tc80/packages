@@ -3,10 +3,7 @@
   "filename": "inferno-redux.min.js",
   "license": "MIT",
   "description": "Official Inferno bindings for Redux",
-  "author": {
-    "name": "Dominic Gannaway",
-    "email": "dg@domgan.com"
-  },
+  "author": "Dominic Gannaway <dg@domgan.com>",
   "homepage": "https://infernojs.org/",
   "keywords": [
     "babel",

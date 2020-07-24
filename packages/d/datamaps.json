@@ -2,10 +2,7 @@
   "name": "datamaps",
   "filename": "datamaps.all.min.js",
   "description": "datamaps with d3.js",
-  "author": {
-    "name": "Mark DiMarco",
-    "email": "markmarkoh@gmail.com"
-  },
+  "author": "Mark DiMarco <markmarkoh@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

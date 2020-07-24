@@ -24,11 +24,7 @@
     "url": "git://github.com/hakimel/Ladda.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
-  },
+  "author": "Hakim El Hattab <hakim.elhattab@gmail.com>",
   "keywords": [
     "Ladda"
   ]

@@ -3,10 +3,7 @@
   "name": "javascript-hooker",
   "description": "Monkey-patch (hook) functions for debugging and stuff.",
   "homepage": "http://github.com/cowboy/javascript-hooker",
-  "author": {
-    "name": "\"Cowboy\" Ben Alman",
-    "url": "http://benalman.com/"
-  },
+  "author": "\"Cowboy\" Ben Alman",
   "repository": {
     "type": "git",
     "url": "git://github.com/cowboy/javascript-hooker.git"

@@ -2,10 +2,7 @@
   "name": "papier",
   "filename": "papier.min.css",
   "description": "Just another CSS library",
-  "author": {
-    "name": "Alexander Gugel",
-    "email": "alexander.gugel@gmail.com"
-  },
+  "author": "Alexander Gugel <alexander.gugel@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

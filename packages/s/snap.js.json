@@ -3,10 +3,7 @@
   "filename": "snap.min.js",
   "description": "",
   "homepage": "",
-  "author": {
-    "name": "Jacob Kelley",
-    "url": "http://jakiestfu.com/"
-  },
+  "author": "Jacob Kelley",
   "repository": {
     "type": "git",
     "url": "git://github.com/jakiestfu/Snap.js.git"

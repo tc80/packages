@@ -10,11 +10,7 @@
     "css",
     "oocss"
   ],
-  "author": {
-    "name": "@mrmrs",
-    "email": "hi@mrmrs.cc",
-    "url": "http://mrmrs.cc"
-  },
+  "author": "@mrmrs <hi@mrmrs.cc>",
   "license": "MIT",
   "homepage": "http://clrs.cc",
   "repository": {

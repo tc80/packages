@@ -28,9 +28,5 @@
     "type": "git",
     "url": "git://github.com/dinbror/bpopup.git"
   },
-  "author": {
-    "name": "Bjørn Klinggaard",
-    "url": "http://dinbror.dk",
-    "email": "hello@dinbror.dk"
-  }
+  "author": "Bjørn Klinggaard <hello@dinbror.dk>"
 }

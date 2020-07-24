@@ -12,11 +12,7 @@
     "url": "https://github.com/guillaumepotier/Parsley.js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Guillaume Potier",
-    "email": "guillaume@wisembly.com",
-    "url": "http://guillaumepotier.com/"
-  },
+  "author": "Guillaume Potier <guillaume@wisembly.com>",
   "autoupdate": {
     "source": "npm",
     "target": "parsleyjs",

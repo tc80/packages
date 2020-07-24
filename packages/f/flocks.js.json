@@ -1,9 +1,5 @@
 {
-  "author": {
-    "name": "John Haugeland",
-    "email": "stonecypher@gmail.com",
-    "url": "http://fullof.bs/"
-  },
+  "author": "John Haugeland <stonecypher@gmail.com>",
   "name": "flocks.js",
   "filename": "flocks.min.js",
   "description": "Simpler state management for React.js",

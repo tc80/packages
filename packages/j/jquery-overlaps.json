@@ -9,10 +9,7 @@
     "filter",
     "overlapping"
   ],
-  "author": {
-    "name": "Brandon Aaron",
-    "url": "http://brandonaaron.net"
-  },
+  "author": "Brandon Aaron",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/brandonaaron/jquery-overlaps.git",

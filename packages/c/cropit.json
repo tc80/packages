@@ -2,11 +2,7 @@
   "name": "cropit",
   "description": "Customizable crop and zoom.",
   "filename": "jquery.cropit.min.js",
-  "author": {
-    "name": "Scott Cheng",
-    "email": "me@scottcheng.com",
-    "url": "http://scottcheng.com"
-  },
+  "author": "Scott Cheng <me@scottcheng.com>",
   "keywords": [
     "crop",
     "zoom",

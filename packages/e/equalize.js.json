@@ -10,10 +10,7 @@
     "width",
     "layout"
   ],
-  "author": {
-    "name": "Tim Svensen",
-    "url": "http://timsvensen.com"
-  },
+  "author": "Tim Svensen",
   "licenses": [
     "MIT",
     "GPL-2.0"

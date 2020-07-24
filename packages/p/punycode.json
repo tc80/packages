@@ -10,11 +10,7 @@
     "url",
     "domain"
   ],
-  "author": {
-    "name": "Mathias Bynens",
-    "email": "mathias@qiwi.be",
-    "web": "http://mathiasbynens.be/"
-  },
+  "author": "Mathias Bynens <mathias@qiwi.be>",
   "repository": {
     "type": "git",
     "url": "https://github.com/bestiejs/punycode.js.git"

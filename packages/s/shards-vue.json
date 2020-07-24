@@ -1,8 +1,5 @@
 {
-  "author": {
-    "name": "Catalin Vasile",
-    "url": "https://github.com/hisk"
-  },
+  "author": "Catalin Vasile",
   "description": "A free, beautiful and modern Vue.js UI kit based on the Shards UI kit.",
   "filename": "shards-vue.common.min.js",
   "homepage": "https://designrevision.com/downloads/shards-vue",

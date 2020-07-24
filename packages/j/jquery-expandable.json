@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git://github.com/brandonaaron/jquery-expandable.git"
   },
-  "author": {
-    "name": "Brandon Aaron",
-    "url": "http://brandon.aaron.sh"
-  },
+  "author": "Brandon Aaron",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/brandonaaron/jquery-expandable.git",

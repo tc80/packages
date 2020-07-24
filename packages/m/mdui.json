@@ -10,10 +10,7 @@
     "mobile-first",
     "web"
   ],
-  "author": {
-    "name": "zdhxiong",
-    "email": "zdhxiong@gmail.com"
-  },
+  "author": "zdhxiong <zdhxiong@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -7,10 +7,7 @@
     "search",
     "site-search"
   ],
-  "author": {
-    "name": "Tipue",
-    "url": "http://www.tipue.com"
-  },
+  "author": "Tipue",
   "license": "MIT",
   "homepage": "http://www.tipue.com/search/",
   "autoupdate": {

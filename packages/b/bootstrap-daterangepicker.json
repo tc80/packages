@@ -6,11 +6,7 @@
     "type": "git",
     "url": "https://github.com/dangrossman/bootstrap-daterangepicker.git"
   },
-  "author": {
-    "name": "Dan Grossman",
-    "email": "dan@dangrossman.info",
-    "url": "http://www.dangrossman.info"
-  },
+  "author": "Dan Grossman <dan@dangrossman.info>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

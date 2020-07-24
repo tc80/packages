@@ -25,10 +25,7 @@
     "url": "git://github.com/pheryjs/phery.git"
   },
   "homepage": "http://phery-php-ajax.net",
-  "author": {
-    "name": "Paulo Cesar",
-    "url": "http://github.com/pocesar"
-  },
+  "author": "Paulo Cesar",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/pheryjs/phery.git",

@@ -12,11 +12,7 @@
     "browser",
     "amd"
   ],
-  "author": {
-    "name": "Oliver Caldwell",
-    "email": "olliec87@gmail.com",
-    "url": "http://oli.me.uk/"
-  },
+  "author": "Oliver Caldwell <olliec87@gmail.com>",
   "license": "Unlicense",
   "autoupdate": {
     "source": "git",

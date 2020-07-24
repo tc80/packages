@@ -13,11 +13,7 @@
     "type": "git",
     "url": "http://github.com/monospaced/angular-qrcode"
   },
-  "author": {
-    "name": "Scott Boyle",
-    "email": "scott@monospaced.com",
-    "url": "http://scottboyle.co.uk/about"
-  },
+  "author": "Scott Boyle <scott@monospaced.com>",
   "autoupdate": {
     "source": "npm",
     "target": "angular-qrcode",

@@ -5,10 +5,7 @@
     "masonry",
     "layout"
   ],
-  "author": {
-    "name": "Big Bite Creative",
-    "url": "http://bigbitecreative.com"
-  },
+  "author": "Big Bite Creative",
   "license": "MIT",
   "homepage": "http://macyjs.com/",
   "repository": {

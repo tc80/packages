@@ -13,8 +13,5 @@
     "url": "https://github.com/millermedeiros/js-signals"
   },
   "license": "MIT",
-  "author": {
-    "name": "Miller Medeiros",
-    "url": "http://blog.millermedeiros.com/"
-  }
+  "author": "Miller Medeiros"
 }

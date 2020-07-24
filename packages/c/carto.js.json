@@ -1,8 +1,5 @@
 {
-  "author": {
-    "email": "wadus@cartodb.com",
-    "name": "CartoDB"
-  },
+  "author": "CartoDB <wadus@cartodb.com>",
   "description": "CARTO.js is a JavaScript library to create custom location intelligence applications that leverage the power of CARTO. It is the library that powers Builder and it is part of the Engine ecosystem.",
   "filename": "carto.min.js",
   "homepage": "https://cartodb.com/",

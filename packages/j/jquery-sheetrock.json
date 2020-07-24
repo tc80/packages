@@ -30,8 +30,5 @@
     "url": "https://github.com/chriszarate/sheetrock"
   },
   "license": "MIT",
-  "author": {
-    "name": "Chris Zarate",
-    "url": "http://chris.zarate.org"
-  }
+  "author": "Chris Zarate"
 }

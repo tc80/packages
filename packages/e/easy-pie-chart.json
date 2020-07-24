@@ -26,11 +26,7 @@
       }
     ]
   },
-  "author": {
-    "name": "Robert Fleischmann",
-    "email": "rendro87@gmail.com",
-    "url": "http://robert-fleischmann.de"
-  },
+  "author": "Robert Fleischmann <rendro87@gmail.com>",
   "licenses": [
     "MIT",
     "GPL-3.0"

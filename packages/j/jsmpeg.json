@@ -1,10 +1,7 @@
 {
   "name": "jsmpeg",
   "filename": "jsmpg.min.js",
-  "author": {
-    "name": "Dominic Szablewski",
-    "website": "http://www.phoboslab.org/"
-  },
+  "author": "Dominic Szablewski",
   "repository": {
     "type": "git",
     "url": "https://github.com/phoboslab/jsmpeg.git"

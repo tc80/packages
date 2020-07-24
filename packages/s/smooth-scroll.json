@@ -2,10 +2,7 @@
   "name": "smooth-scroll",
   "filename": "smooth-scroll.min.js",
   "description": "Animate scrolling to anchor links",
-  "author": {
-    "name": "Chris Ferdinandi",
-    "url": "http://gomakethings.com"
-  },
+  "author": "Chris Ferdinandi",
   "keywords": [
     "smooth",
     "scroll"

@@ -4,10 +4,7 @@
   "filename": "freewall.min.js",
   "description": "Amazing grid layout.",
   "homepage": "http://vnjs.net/www/project/freewall/",
-  "author": {
-    "name": "kombai",
-    "url": "http://vnjs.net/www/project/freewall/"
-  },
+  "author": "kombai",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/kombai/freewall.git",

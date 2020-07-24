@@ -3,10 +3,7 @@
   "filename": "slidebars.min.js",
   "description": "Slidebars is a jQuery plugin for quickly and easily implementing app-style revealing menus and sidebars into your website.",
   "homepage": "http://plugins.adchsm.me/slidebars/",
-  "author": {
-    "name": "Adam Smith",
-    "email": "adchsm@me.com"
-  },
+  "author": "Adam Smith <adchsm@me.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/adchsm/Slidebars.git"

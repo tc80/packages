@@ -1,9 +1,5 @@
 {
-  "author": {
-    "email": "vincent.voyer@gmail.com",
-    "name": "Vincent Voyer",
-    "url": "http://github.com/vvo"
-  },
+  "author": "Vincent Voyer <vincent.voyer@gmail.com>",
   "keywords": [
     "lazyload",
     "js",

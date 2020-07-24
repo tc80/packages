@@ -12,10 +12,7 @@
     "jquery",
     "plugin"
   ],
-  "author": {
-    "name": "Dimitris Krestos",
-    "email": "dkrestos@gmail.com"
-  },
+  "author": "Dimitris Krestos <dkrestos@gmail.com>",
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "npm",

@@ -16,11 +16,7 @@
     "url": "https://github.com/adamwdraper/Numeral-js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Adam Draper",
-    "email": "adamwdraper@gmail.com",
-    "url": "https://github.com/adamwdraper"
-  },
+  "author": "Adam Draper <adamwdraper@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "numeral",

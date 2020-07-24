@@ -9,11 +9,7 @@
     "select",
     "form"
   ],
-  "author": {
-    "name": "lou",
-    "email": "louiscuny@gmail.com",
-    "url": "https://github.com/lou"
-  },
+  "author": "lou <louiscuny@gmail.com>",
   "homepage": "http://lou.github.com/switchy/",
   "autoupdate": {
     "source": "git",

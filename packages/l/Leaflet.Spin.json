@@ -2,10 +2,7 @@
   "name": "Leaflet.Spin",
   "filename": "leaflet.spin.min.js",
   "homepage": "https://makinacorpus.github.io/Leaflet.Spin/",
-  "author": {
-    "name": "Makina Corpus",
-    "homepage": "http://makina-corpus.com/"
-  },
+  "author": "Makina Corpus",
   "description": "Show a spinner on a Leaflet map using Spin.js",
   "keywords": [
     "Leaflet",

@@ -1,7 +1,5 @@
 {
-  "author": {
-    "name": "Matt Zabriskie"
-  },
+  "author": "Matt Zabriskie",
   "description": "React Disqus thread component",
   "keywords": [
     "disqus",

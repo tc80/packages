@@ -9,11 +9,7 @@
     "canvas"
   ],
   "homepage": "http://darkskyapp.github.io/skycons/",
-  "author": {
-    "name": "The Dark Sky Company, LLC",
-    "email": "support@forecast.io",
-    "url": "http://forecast.io/"
-  },
+  "author": "The Dark Sky Company, LLC <support@forecast.io>",
   "repository": {
     "type": "git",
     "url": "https://github.com/darkskyapp/skycons.git"

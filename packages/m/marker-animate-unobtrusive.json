@@ -13,11 +13,7 @@
     "marker animation",
     "SlidingMarker"
   ],
-  "author": {
-    "name": "Terikon Apps",
-    "email": "npm@terikon.com",
-    "url": "http://il.linkedin.com/in/romanviskin"
-  },
+  "author": "Terikon Apps <npm@terikon.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

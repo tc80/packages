@@ -8,10 +8,7 @@
     "chart",
     "tui-chart"
   ],
-  "author": {
-    "name": "NHN. FE Development Lab",
-    "email": "dl_javascript@nhn.com"
-  },
+  "author": "NHN. FE Development Lab <dl_javascript@nhn.com>",
   "license": "MIT",
   "homepage": "https://github.com/nhn/tui.chart#readme",
   "repository": {

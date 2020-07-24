@@ -14,10 +14,7 @@
     "front-end",
     "web"
   ],
-  "author": {
-    "name": "Chen Fengyuan",
-    "url": "https://chenfengyuan.com"
-  },
+  "author": "Chen Fengyuan",
   "license": "MIT",
   "homepage": "https://fengyuanchen.github.io/datepicker",
   "repository": {

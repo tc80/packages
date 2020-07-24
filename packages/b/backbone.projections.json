@@ -17,10 +17,6 @@
     "data",
     "mvc"
   ],
-  "author": {
-    "name": "Andrey Popp",
-    "email": "8mayday@gmail.com",
-    "url": "http://andreypopp.com"
-  },
+  "author": "Andrey Popp <8mayday@gmail.com>",
   "license": "MIT"
 }

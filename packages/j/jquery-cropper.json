@@ -8,10 +8,7 @@
     "url": "git+https://github.com/fengyuanchen/jquery-cropper.git"
   },
   "homepage": "https://fengyuanchen.github.io/jquery-cropper/",
-  "author": {
-    "name": "Fengyuan Chen",
-    "url": "https://chenfengyuan.com/"
-  },
+  "author": "Fengyuan Chen",
   "keywords": [
     "image",
     "crop",

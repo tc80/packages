@@ -2,11 +2,7 @@
   "name": "classlist",
   "filename": "classList.min.js",
   "description": "Cross-browser full element.classList implementation.",
-  "author": {
-    "name": "Eli Grey",
-    "email": "me@eligrey.com",
-    "url": "http://eligrey.com"
-  },
+  "author": "Eli Grey <me@eligrey.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/eligrey/classList.js.git"

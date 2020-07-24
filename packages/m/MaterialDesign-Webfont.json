@@ -12,10 +12,7 @@
     "icons",
     "webfont"
   ],
-  "author": {
-    "name": "Austin Andrews",
-    "web": "http://twitter.com/templarian"
-  },
+  "author": "Austin Andrews",
   "licenses": [
     "OFL-1.1",
     "MIT"

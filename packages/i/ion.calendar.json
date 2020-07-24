@@ -12,11 +12,7 @@
     "momentjs",
     "multilanguage"
   ],
-  "author": {
-    "name": "IonDen",
-    "url": "https://github.com/IonDen",
-    "email": "denis.ineshin@gmail.com"
-  },
+  "author": "IonDen <denis.ineshin@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -6,10 +6,7 @@
     "d3",
     "sankey"
   ],
-  "author": {
-    "name": "Mike Bostock",
-    "url": "https://bost.ocks.org/mike"
-  },
+  "author": "Mike Bostock",
   "license": "BSD-3-Clause",
   "homepage": "https://bost.ocks.org/mike/sankey/",
   "repository": {

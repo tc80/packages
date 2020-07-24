@@ -8,10 +8,7 @@
     "password",
     "security"
   ],
-  "author": {
-    "name": "danpalmer",
-    "url": "https://github.com/danpalmer"
-  },
+  "author": "danpalmer",
   "repository": {
     "type": "git",
     "url": "https://github.com/danpalmer/jquery.complexify.js.git"

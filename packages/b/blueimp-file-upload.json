@@ -23,10 +23,7 @@
     "php",
     "bootstrap"
   ],
-  "author": {
-    "name": "Sebastian Tschan",
-    "url": "https://blueimp.net"
-  },
+  "author": "Sebastian Tschan",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -7,10 +7,7 @@
     "scroll",
     "snap"
   ],
-  "author": {
-    "name": "Luke Haas",
-    "url": "http://lukehaas.me"
-  },
+  "author": "Luke Haas",
   "homepage": "http://projects.lukehaas.me/scrollify",
   "autoupdate": {
     "source": "git",

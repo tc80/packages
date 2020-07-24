@@ -10,10 +10,7 @@
     "loader",
     "ajax"
   ],
-  "author": {
-    "name": "Carlos Bonetti",
-    "email": "carlosbonetti.mail@gmail.com"
-  },
+  "author": "Carlos Bonetti <carlosbonetti.mail@gmail.com>",
   "license": "MIT",
   "homepage": "http://carlosbonetti.github.io/jquery-loading/",
   "repository": {

@@ -32,10 +32,7 @@
     "lon"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Onur Yıldırım",
-    "email": "onur@cutepilot.com"
-  },
+  "author": "Onur Yıldırım <onur@cutepilot.com>",
   "autoupdate": {
     "source": "npm",
     "target": "geolocator",

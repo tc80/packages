@@ -2,10 +2,7 @@
   "name": "bootstrap-autohidingnavbar",
   "filename": "jquery.bootstrap-autohidingnavbar.min.js",
   "description": "An extension for Bootstrap's fixed navbar which hides the navbar while the page is scrolling downwards and shows it the other way. The plugin is able to show/hide the navbar programmatically as well.",
-  "author": {
-    "name": "István Ujj-Mészáros",
-    "url": "https://github.com/istvan-ujjmeszaros"
-  },
+  "author": "István Ujj-Mészáros",
   "repository": {
     "type": "git",
     "url": "http://github.com/istvan-ujjmeszaros/bootstrap-autohidingnavbar.git"

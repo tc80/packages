@@ -14,10 +14,7 @@
     "type": "git",
     "url": "https://github.com/joseluisq/prelodr"
   },
-  "author": {
-    "name": "José Luis Quintana",
-    "url": "http://git.io/joseluisq"
-  },
+  "author": "José Luis Quintana",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/joseluisq/prelodr.git",

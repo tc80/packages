@@ -7,9 +7,7 @@
     "graphics",
     "images"
   ],
-  "author": {
-    "name": "Eric Shull"
-  },
+  "author": "Eric Shull",
   "license": "MIT",
   "homepage": "https://github.com/exupero/saveSvgAsPng",
   "repository": {

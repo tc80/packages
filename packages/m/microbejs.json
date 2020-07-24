@@ -1,9 +1,6 @@
 {
   "name": "microbejs",
-  "author": {
-    "name": "Mouse Braun",
-    "email": "mouse@knoblau.ch"
-  },
+  "author": "Mouse Braun <mouse@knoblau.ch>",
   "description": "microbe.js - A modular JS library for DOM manipulation, and more",
   "repository": {
     "type": "git",

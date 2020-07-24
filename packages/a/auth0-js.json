@@ -9,9 +9,7 @@
     "jwt",
     "browser"
   ],
-  "author": {
-    "name": "Auth0"
-  },
+  "author": "Auth0",
   "license": "MIT",
   "homepage": "https://github.com/auth0/auth0.js#readme",
   "repository": {

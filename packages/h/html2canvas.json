@@ -8,11 +8,7 @@
     "screenshot",
     "html5"
   ],
-  "author": {
-    "name": "Niklas von Hertzen",
-    "email": "niklasvh@gmail.com",
-    "url": "http://hertzen.com"
-  },
+  "author": "Niklas von Hertzen <niklasvh@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

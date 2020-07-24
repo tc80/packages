@@ -7,11 +7,7 @@
     "url": "git://github.com/Swimlane/angular-data-table.git"
   },
   "homepage": "http://swimlane.com/",
-  "author": {
-    "name": "Swimlane",
-    "email": "austin@swimlane.com",
-    "url": "http://swimlane.com/"
-  },
+  "author": "Swimlane <austin@swimlane.com>",
   "keywords": [
     "data-table",
     "material-design",

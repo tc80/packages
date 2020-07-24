@@ -2,10 +2,7 @@
   "name": "shower-core",
   "filename": "shower.min.js",
   "description": "Core for Shower HTML presentation engine",
-  "author": {
-    "name": "Vadim Makeev",
-    "url": "http://pepelsbey.net/"
-  },
+  "author": "Vadim Makeev",
   "repository": {
     "type": "git",
     "url": "git://github.com/shower/core.git"

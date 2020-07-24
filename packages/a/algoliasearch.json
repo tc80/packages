@@ -15,10 +15,7 @@
     "url": "https://github.com/algolia/algoliasearch-client-js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Algolia SAS",
-    "url": "https://www.algolia.com"
-  },
+  "author": "Algolia SAS",
   "autoupdate": {
     "source": "npm",
     "target": "algoliasearch",

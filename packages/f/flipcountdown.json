@@ -22,11 +22,7 @@
     "type": "git",
     "url": "https://github.com/xdan/flipcountdown.git"
   },
-  "author": {
-    "name": "Chupurnov",
-    "email": "chupurnov@gmail.com",
-    "url": "http://xdsoft.net/"
-  },
+  "author": "Chupurnov <chupurnov@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

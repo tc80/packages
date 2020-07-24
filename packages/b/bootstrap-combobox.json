@@ -2,10 +2,7 @@
   "name": "bootstrap-combobox",
   "filename": "js/bootstrap-combobox.min.js",
   "description": "A combobox plugin that works with twitter bootstrap",
-  "author": {
-    "name": "Daniel Farrell",
-    "url": "https://github.com/danielfarrell"
-  },
+  "author": "Daniel Farrell",
   "repository": {
     "type": "git",
     "url": "https://github.com/danielfarrell/bootstrap-combobox"

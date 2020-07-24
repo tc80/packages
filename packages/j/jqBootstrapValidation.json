@@ -3,10 +3,7 @@
   "title": "jqBootstrapValidation",
   "description": "A JQuery validation plugin for bootstrap forms.",
   "homepage": "http://reactiveraven.github.com/jqBootstrapValidation",
-  "author": {
-    "name": "David Godfrey",
-    "email": "reactiveraven@gmail.com"
-  },
+  "author": "David Godfrey <reactiveraven@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/ReactiveRaven/jqBootstrapValidation.git"

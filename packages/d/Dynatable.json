@@ -13,10 +13,7 @@
   },
   "license": "AGPL-3.0",
   "homepage": "http://www.dynatable.com",
-  "author": {
-    "name": "Steve Schwartz",
-    "url": "https://github.com/JangoSteve"
-  },
+  "author": "Steve Schwartz",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/alfajango/jquery-dynatable.git",

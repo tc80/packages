@@ -11,10 +11,7 @@
     "visualization",
     "svg"
   ],
-  "author": {
-    "name": "The Miso Project team",
-    "uri": "https://github.com/misoproject/d3.chart/blob/master/AUTHORS.txt"
-  },
+  "author": "The Miso Project team",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

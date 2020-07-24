@@ -3,11 +3,7 @@
   "filename": "wordcloud2.min.js",
   "description": "Tag cloud/Wordle presentation on 2D canvas or HTML",
   "homepage": "http://timdream.org/wordcloud2.js/",
-  "author": {
-    "name": "Timothy Guan-tin Chien",
-    "email": "timdream@gmail.com",
-    "url": "http://timdream.org/"
-  },
+  "author": "Timothy Guan-tin Chien <timdream@gmail.com>",
   "keywords": [
     "cloud",
     "canvas",

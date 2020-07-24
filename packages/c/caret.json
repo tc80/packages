@@ -6,10 +6,7 @@
   "keywords": [
     "caret"
   ],
-  "author": {
-    "name": "Gideon Sireling",
-    "homepage": "https://www.linkedin.com/in/gideonsireling"
-  },
+  "author": "Gideon Sireling",
   "repository": {
     "type": "git",
     "url": "https://github.com/accursoft/caret.git"

@@ -15,10 +15,7 @@
     "url": "https://github.com/mathiasbynens/cssesc.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Mathias Bynens",
-    "url": "https://mathiasbynens.be/"
-  },
+  "author": "Mathias Bynens",
   "autoupdate": {
     "source": "npm",
     "target": "cssesc",

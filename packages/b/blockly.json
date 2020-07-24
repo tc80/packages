@@ -4,9 +4,7 @@
   "keywords": [
     "blockly"
   ],
-  "author": {
-    "name": "Neil Fraser"
-  },
+  "author": "Neil Fraser",
   "license": "Apache-2.0",
   "homepage": "https://developers.google.com/blockly/",
   "repository": {

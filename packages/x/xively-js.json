@@ -9,11 +9,7 @@
     "jquery"
   ],
   "homepage": "http://xively.github.com/xively-js/",
-  "author": {
-    "name": "Pete Correia",
-    "email": "support@xively.com",
-    "url": "https://xively.com"
-  },
+  "author": "Pete Correia <support@xively.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/xively/xively-js.git"

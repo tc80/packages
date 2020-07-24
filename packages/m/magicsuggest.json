@@ -18,10 +18,7 @@
     "bootstrap",
     "combobox"
   ],
-  "author": {
-    "name": "Nicolas Bize",
-    "url": "https://github.com/nicolasbize"
-  },
+  "author": "Nicolas Bize",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

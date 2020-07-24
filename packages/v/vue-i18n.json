@@ -2,10 +2,7 @@
   "name": "vue-i18n",
   "filename": "vue-i18n.min.js",
   "description": "Internationalization plugin for Vue.js",
-  "author": {
-    "name": "kazuya kawaguchi",
-    "email": "kawakazu80@gmail.com"
-  },
+  "author": "kazuya kawaguchi <kawakazu80@gmail.com>",
   "keywords": [
     "i18n",
     "internationalization",

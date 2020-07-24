@@ -13,11 +13,7 @@
     "lightbox"
   ],
   "homepage": "http://janne.aukia.com/zoomooz",
-  "author": {
-    "name": "Janne Aukia",
-    "email": "janne@aukia.com",
-    "url": "https://github.com/jaukia"
-  },
+  "author": "Janne Aukia <janne@aukia.com>",
   "licenses": [
     "MIT",
     "GPL-2.0"

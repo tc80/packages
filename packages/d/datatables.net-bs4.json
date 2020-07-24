@@ -9,10 +9,7 @@
     "table",
     "Bootstrap 4"
   ],
-  "author": {
-    "name": "SpryMedia Ltd",
-    "url": "http://datatables.net"
-  },
+  "author": "SpryMedia Ltd",
   "license": "MIT",
   "homepage": "https://datatables.net",
   "repository": {

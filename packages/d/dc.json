@@ -1,10 +1,7 @@
 {
   "name": "dc",
   "description": "A multi-dimensional charting library built to work natively with crossfilter and rendered using d3.js",
-  "author": {
-    "name": "Nick Zhu",
-    "url": "http://nzhu.blogspot.ca/"
-  },
+  "author": "Nick Zhu",
   "homepage": "http://dc-js.github.io/dc.js/",
   "keywords": [
     "visualization",

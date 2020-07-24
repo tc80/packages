@@ -11,9 +11,7 @@
     "type": "git",
     "url": "https://github.com/rotundasoftware/backbone.collectionView.git"
   },
-  "author": {
-    "name": "Rotunda Software"
-  },
+  "author": "Rotunda Software",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

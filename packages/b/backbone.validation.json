@@ -14,10 +14,7 @@
     "url": "https://github.com/thedersen/backbone.validation.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Thomas Pedersen",
-    "url": "http://thedersen.com/"
-  },
+  "author": "Thomas Pedersen",
   "autoupdate": {
     "source": "npm",
     "target": "backbone-validation",

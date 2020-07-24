@@ -13,9 +13,7 @@
     "crossfilter",
     "d3"
   ],
-  "author": {
-    "name": "Nicholas Stavrakakis"
-  },
+  "author": "Nicholas Stavrakakis",
   "repository": {
     "type": "git",
     "url": "https://github.com/scottlogic/insight.git"

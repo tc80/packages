@@ -23,11 +23,7 @@
     "tree",
     "treeview"
   ],
-  "author": {
-    "name": "Atanas Atanasov",
-    "email": "nascovt@gmail.com",
-    "url": "http://gijgo.com"
-  },
+  "author": "Atanas Atanasov <nascovt@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

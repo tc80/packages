@@ -1,10 +1,7 @@
 {
   "name": "oojs-ui",
   "description": "User interface classes built on the OOjs framework.",
-  "author": {
-    "name": "OOjs UI Team and other contributors",
-    "url": "https://phabricator.wikimedia.org/diffusion/GOJU/browse/master/AUTHORS.txt"
-  },
+  "author": "OOjs UI Team and other contributors",
   "keywords": [
     "oojs-plugin",
     "ui"

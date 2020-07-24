@@ -1,9 +1,7 @@
 {
   "filename": "numeric.min.js",
   "name": "numeric",
-  "author": {
-    "name": "Sébastien Loisel"
-  },
+  "author": "Sébastien Loisel",
   "description": "Numerical analysis in javascript",
   "keywords": [
     "numeric",

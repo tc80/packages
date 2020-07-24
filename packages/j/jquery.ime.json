@@ -13,10 +13,7 @@
     "javascript",
     "intl"
   ],
-  "author": {
-    "name": "Santhosh Thottingal",
-    "email": "santhosh.thottingal@gmail.com"
-  },
+  "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/wikimedia/jquery.ime.git"

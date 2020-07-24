@@ -2,11 +2,7 @@
   "name": "helium-css",
   "filename": "helium.min.js",
   "description": "javascript tool to scan your site and show unused CSS",
-  "author": {
-    "name": "Charles Lawrence",
-    "email": "geuis.teses@gmail.com",
-    "url": "http://geuis.com"
-  },
+  "author": "Charles Lawrence <geuis.teses@gmail.com>",
   "keywords": [
     "helium",
     "css",

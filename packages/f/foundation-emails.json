@@ -6,11 +6,7 @@
     "responsive",
     "emails"
   ],
-  "author": {
-    "name": "ZURB",
-    "email": "foundation@zurb.com",
-    "url": "http://foundation.zurb.com"
-  },
+  "author": "ZURB <foundation@zurb.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zurb/foundation-emails.git"

@@ -7,10 +7,7 @@
     "javascript",
     "md5"
   ],
-  "author": {
-    "name": "Sebastian Tschan",
-    "url": "https://blueimp.net"
-  },
+  "author": "Sebastian Tschan",
   "repository": {
     "type": "git",
     "url": "git://github.com/blueimp/JavaScript-MD5.git"

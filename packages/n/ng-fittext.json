@@ -12,10 +12,7 @@
     "javascript",
     "typography"
   ],
-  "author": {
-    "name": "patrickmarabeas",
-    "url": "https://github.com/patrickmarabeas"
-  },
+  "author": "patrickmarabeas",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/patrickmarabeas/ng-FitText.js.git",

@@ -111,11 +111,7 @@
     "Validator",
     "Panel"
   ],
-  "author": {
-    "name": "jQWidgets",
-    "email": "support@jqwidgets.com",
-    "url": "http://www.jqwidgets.com/"
-  },
+  "author": "jQWidgets <support@jqwidgets.com>",
   "license": "http://www.jqwidgets.com/license/",
   "homepage": "http://www.jqwidgets.com/",
   "filename": "jqwidgets/jqx-all.js",

@@ -14,10 +14,7 @@
     "url": "https://github.com/KingPixil/moon.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Kabir Shah",
-    "url": "https://kabir.ml/"
-  },
+  "author": "Kabir Shah",
   "autoupdate": {
     "source": "npm",
     "target": "moonjs",

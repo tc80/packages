@@ -6,10 +6,7 @@
   "keywords": [
     "template"
   ],
-  "author": {
-    "name": "Laura Doktorova",
-    "url": "http://milq.com/p/olado"
-  },
+  "author": "Laura Doktorova",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/olado/doT.git",

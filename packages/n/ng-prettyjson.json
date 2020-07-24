@@ -3,10 +3,7 @@
   "filename": "ng-prettyjson.min.js",
   "description": "AngularJS directive for json pretty output (colors / indent / editor)",
   "license": "MIT",
-  "author": {
-    "name": "Julien Valéry",
-    "email": "darul75@gmail.com"
-  },
+  "author": "Julien Valéry <darul75@gmail.com>",
   "homepage": "https://darul75.github.io/ng-prettyjson/",
   "repository": {
     "type": "git",

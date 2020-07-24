@@ -2,11 +2,7 @@
   "name": "blanket.js",
   "filename": "blanket.min.js",
   "description": "seamless js code coverage",
-  "author": {
-    "name": "Alex-Seville",
-    "email": "hi@alexanderseville.com",
-    "url": "http://blanketjs.org"
-  },
+  "author": "Alex-Seville <hi@alexanderseville.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/alex-seville/blanket.git"

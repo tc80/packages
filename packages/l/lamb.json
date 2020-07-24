@@ -14,10 +14,7 @@
     "javascript"
   ],
   "homepage": "https://ascartabelli.github.io/lamb/",
-  "author": {
-    "email": "andrea.scartabelli@gmail.com",
-    "name": "Andrea Scartabelli"
-  },
+  "author": "Andrea Scartabelli <andrea.scartabelli@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/ascartabelli/lamb.git"

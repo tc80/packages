@@ -3,10 +3,7 @@
   "description": "An advanced HTML5 mobile app framework built on Angular2",
   "filename": "ionic.min.js",
   "license": "MIT",
-  "author": {
-    "name": "driftyco",
-    "url": "https://github.com/driftyco"
-  },
+  "author": "driftyco",
   "keywords": [
     "ionic",
     "framework",

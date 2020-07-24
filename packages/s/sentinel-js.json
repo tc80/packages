@@ -7,11 +7,7 @@
     "type": "git",
     "url": "https://github.com/muicss/sentineljs.git"
   },
-  "author": {
-    "name": "Andres Morey",
-    "email": "andres@muicss.com",
-    "url": "https://www.muicss.com"
-  },
+  "author": "Andres Morey <andres@muicss.com>",
   "keywords": [
     "dom",
     "detect",

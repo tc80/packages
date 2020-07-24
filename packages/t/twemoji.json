@@ -12,10 +12,7 @@
     "Twitter",
     "unicode"
   ],
-  "author": {
-    "name": "Twitter, Inc.",
-    "url": "https://github.com/twitter/"
-  },
+  "author": "Twitter, Inc.",
   "licenses": [
     "MIT",
     "CC-BY-4.0"

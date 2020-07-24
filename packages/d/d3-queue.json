@@ -11,10 +11,7 @@
   ],
   "homepage": "https://bl.ocks.org/mbostock/1696080",
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "Mike Bostock",
-    "url": "https://bost.ocks.org/mike"
-  },
+  "author": "Mike Bostock",
   "repository": {
     "type": "git",
     "url": "https://github.com/d3/d3-queue.git"

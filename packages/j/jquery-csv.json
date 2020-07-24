@@ -11,10 +11,7 @@
     "url": "https://github.com/typeiii/jquery-csv"
   },
   "license": "MIT",
-  "author": {
-    "name": "Evan Plaice",
-    "email": "evan.plaice@gmail.com"
-  },
+  "author": "Evan Plaice <evan.plaice@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/typeiii/jquery-csv.git",

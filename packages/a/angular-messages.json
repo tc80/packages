@@ -12,10 +12,7 @@
     "browser",
     "client-side"
   ],
-  "author": {
-    "name": "Angular Core Team",
-    "email": "angular-core+npm@google.com"
-  },
+  "author": "Angular Core Team <angular-core+npm@google.com>",
   "license": "MIT",
   "homepage": "http://angularjs.org",
   "autoupdate": {

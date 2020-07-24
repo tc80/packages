@@ -7,11 +7,7 @@
     "utility",
     "functional"
   ],
-  "author": {
-    "name": "Fogus",
-    "email": "me@fogus.me",
-    "url": "http://www.fogus.me"
-  },
+  "author": "Fogus <me@fogus.me>",
   "repository": {
     "type": "git",
     "url": "https://github.com/documentcloud/underscore-contrib.git"

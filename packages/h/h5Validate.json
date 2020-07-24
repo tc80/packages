@@ -3,10 +3,7 @@
   "filename": "jquery.h5validate.min.js",
   "description": "HTML5 form validation",
   "homepage": "http://ericleads.com/h5validate/",
-  "author": {
-    "name": "Eric Elliott",
-    "url": "http://ericleads.com"
-  },
+  "author": "Eric Elliott",
   "keywords": [
     "form",
     "html5",

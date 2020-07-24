@@ -23,11 +23,7 @@
     "type": "git",
     "url": "git://github.com/rxaviers/cldrjs.git"
   },
-  "author": {
-    "name": "Rafael Xavier de Souza",
-    "email": "rxaviers@gmail.com",
-    "url": "http://rafael.xavier.blog.br"
-  },
+  "author": "Rafael Xavier de Souza <rxaviers@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/rxaviers/cldrjs.git",

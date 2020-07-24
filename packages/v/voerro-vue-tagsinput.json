@@ -10,11 +10,7 @@
     "typeahead",
     "autocomplete"
   ],
-  "author": {
-    "name": "Alexander Zavyalov",
-    "email": "alex@voerro.com",
-    "url": "http://voerro.com"
-  },
+  "author": "Alexander Zavyalov <alex@voerro.com>",
   "license": "MIT",
   "homepage": "https://github.com/voerro/vue-tagsinput#readme",
   "repository": {

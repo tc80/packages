@@ -11,11 +11,7 @@
     "string",
     "formatting"
   ],
-  "author": {
-    "name": "Alexandru Marasteanu",
-    "email": "hello@alexei.ro",
-    "url": "http://alexei.ro/"
-  },
+  "author": "Alexandru Marasteanu <hello@alexei.ro>",
   "license": "BSD",
   "autoupdate": {
     "source": "npm",

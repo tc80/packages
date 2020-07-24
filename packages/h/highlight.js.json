@@ -26,8 +26,5 @@
     "url": "https://github.com/isagalaev/highlight.js"
   },
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "Ivan Sagalaev",
-    "email": "maniac@softwaremaniacs.org"
-  }
+  "author": "Ivan Sagalaev <maniac@softwaremaniacs.org>"
 }

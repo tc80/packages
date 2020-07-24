@@ -26,8 +26,5 @@
     "url": "https://github.com/soulwire/sketch.js.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Justin Windle",
-    "url": "https://github.com/soulwire"
-  }
+  "author": "Justin Windle"
 }

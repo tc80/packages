@@ -6,9 +6,7 @@
     "mutable",
     "copy-on-write"
   ],
-  "author": {
-    "name": "Michel Weststrate"
-  },
+  "author": "Michel Weststrate",
   "license": "MIT",
   "homepage": "https://github.com/immerjs/immer#readme",
   "repository": {

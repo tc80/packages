@@ -15,11 +15,7 @@
       }
     ]
   },
-  "author": {
-    "name": "Corey Frang",
-    "email": "gnarf37@gmail.com",
-    "url": "https://github.com/gnarf"
-  },
+  "author": "Corey Frang <gnarf37@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/gnarf/jquery-requestAnimationFrame.git"

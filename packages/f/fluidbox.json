@@ -27,9 +27,5 @@
     "type": "git",
     "url": "https://github.com/terrymun/Fluidbox/"
   },
-  "author": {
-    "name": "Terry Mun",
-    "email": "hello@terrymun.com",
-    "homagepage": "http://terrymun.com"
-  }
+  "author": "Terry Mun <hello@terrymun.com>"
 }

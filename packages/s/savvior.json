@@ -2,10 +2,7 @@
   "name": "savvior",
   "description": "A Javascript multicolumn layout tool alternative to Masonry or Salvattore.",
   "homepage": "http://savvior.org/",
-  "author": {
-    "name": "Attila Beregszaszi",
-    "url": "http://attilab.com/"
-  },
+  "author": "Attila Beregszaszi",
   "filename": "savvior.min.js",
   "keywords": [
     "layout",

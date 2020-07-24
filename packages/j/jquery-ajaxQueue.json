@@ -3,11 +3,7 @@
   "filename": "jquery.ajaxQueue.min.js",
   "title": "jQuery Ajax Queue",
   "description": "A simple queue for ajax requests",
-  "author": {
-    "name": "Corey Frang",
-    "email": "gnarf37@gmail.com",
-    "url": "https://github.com/gnarf"
-  },
+  "author": "Corey Frang <gnarf37@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/gnarf/jquery-ajaxQueue.git"

@@ -8,10 +8,7 @@
     "timezone",
     "offset"
   ],
-  "author": {
-    "name": "Sonny T.",
-    "url": "https://sonnyt.com"
-  },
+  "author": "Sonny T.",
   "homepage": "http://sonnyt.com/downCount-plugin/",
   "autoupdate": {
     "source": "git",

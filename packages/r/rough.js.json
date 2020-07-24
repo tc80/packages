@@ -13,11 +13,7 @@
     "sketchy",
     "hand drawn"
   ],
-  "author": {
-    "name": "Preet Shihn",
-    "email": "preetshihn@gmail.com",
-    "url": "https://github.com/pshihn"
-  },
+  "author": "Preet Shihn <preetshihn@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/pshihn/rough.git",

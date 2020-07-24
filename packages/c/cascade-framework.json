@@ -20,8 +20,5 @@
     "url": "https://github.com/CascadeFramework/cascadeframework"
   },
   "license": "MIT",
-  "author": {
-    "name": "John Slegers",
-    "url": "http://www.johnslegers.com"
-  }
+  "author": "John Slegers"
 }

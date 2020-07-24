@@ -11,11 +11,7 @@
     "plugin"
   ],
   "homepage": "http://karolyi.github.com/ui-selectableScroll/",
-  "author": {
-    "name": "László Károlyi",
-    "email": "laszlo@karolyi.hu",
-    "url": "https://www.linkedin.com/in/karolyi"
-  },
+  "author": "László Károlyi <laszlo@karolyi.hu>",
   "repository": {
     "type": "git",
     "url": "http://karolyi.github.com/ui-selectableScroll/"

@@ -9,11 +9,7 @@
     "caret",
     "DOM"
   ],
-  "author": {
-    "name": "Tim Down",
-    "email": "tim@timdown.co.uk",
-    "url": "http://timdown.co.uk/"
-  },
+  "author": "Tim Down <tim@timdown.co.uk>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/timdown/rangy.git",

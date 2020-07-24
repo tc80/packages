@@ -7,10 +7,7 @@
     "plugin",
     "spellcheck"
   ],
-  "author": {
-    "name": "Brandon Aaron",
-    "url": "http://brandon.aaron.sh/"
-  },
+  "author": "Brandon Aaron",
   "repository": {
     "type": "git",
     "url": "git://github.com/brandonaaron/jquery-spellcheck.git"

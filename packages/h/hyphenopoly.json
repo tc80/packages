@@ -1,8 +1,5 @@
 {
-  "author": {
-    "email": "mathiasnater@gmail.com",
-    "name": "Mathias Nater"
-  },
+  "author": "Mathias Nater <mathiasnater@gmail.com>",
   "description": "Hyphenation for node and Polyfill for client-side hyphenation.",
   "filename": "Hyphenopoly.js",
   "homepage": "https://mnater.github.io/Hyphenopoly/",

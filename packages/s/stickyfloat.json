@@ -9,10 +9,7 @@
     "position",
     "animation"
   ],
-  "author": {
-    "name": "Yair Even Or",
-    "url": "http://dropthebit.com"
-  },
+  "author": "Yair Even Or",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -6,10 +6,7 @@
     "video",
     "background"
   ],
-  "author": {
-    "name": "John Polacek",
-    "url": "http://johnpolacek.com"
-  },
+  "author": "John Polacek",
   "license": "MIT",
   "repository": {
     "type": "git",

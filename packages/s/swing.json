@@ -7,11 +7,7 @@
     "swipeable"
   ],
   "filename": "swing.js",
-  "author": {
-    "name": "Gajus Kuizinas",
-    "email": "gk@anuary.com",
-    "url": "http://gajus.com"
-  },
+  "author": "Gajus Kuizinas <gk@anuary.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/gajus/swing"

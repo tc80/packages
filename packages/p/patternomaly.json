@@ -8,10 +8,7 @@
     "data",
     "graphics"
   ],
-  "author": {
-    "name": "Tom Loudon",
-    "url": "http://betweentwobrackets.com"
-  },
+  "author": "Tom Loudon",
   "license": "MIT",
   "homepage": "https://github.com/ashiguruma/patternomaly#readme",
   "repository": {

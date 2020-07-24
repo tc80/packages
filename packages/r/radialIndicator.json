@@ -2,10 +2,7 @@
   "name": "radialIndicator",
   "description": "A simple and light weight circular indicator / progressbar plugin.",
   "filename": "radialIndicator.min.js",
-  "author": {
-    "name": "Sudhanshu Yadav",
-    "email": "sudhanshuyadav2@gmail.com"
-  },
+  "author": "Sudhanshu Yadav <sudhanshuyadav2@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/s-yadav/radialIndicator"

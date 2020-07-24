@@ -10,10 +10,7 @@
     "visualization"
   ],
   "homepage": "http://jointjs.com",
-  "author": {
-    "name": "client IO",
-    "url": "http://client.io"
-  },
+  "author": "client IO",
   "repository": {
     "type": "git",
     "url": "https://github.com/clientIO/joint.git"

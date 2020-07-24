@@ -10,11 +10,7 @@
     "grid",
     "responsive"
   ],
-  "author": {
-    "name": "Lionel",
-    "email": "lionel@pixeden.com",
-    "url": "http://pixeden.com"
-  },
+  "author": "Lionel <lionel@pixeden.com>",
   "license": "MIT",
   "homepage": "http://themes-pixeden.com/aurora-kit/grid",
   "autoupdate": {

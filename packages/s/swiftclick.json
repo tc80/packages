@@ -1,10 +1,7 @@
 {
   "name": "swiftclick",
   "description": "Eliminates the 300ms click event delay on touch devices that support orientation change",
-  "author": {
-    "name": "Ivan Hayes",
-    "url": "http://www.ivanhayes.com"
-  },
+  "author": "Ivan Hayes",
   "keywords": [
     "swiftclick",
     "fastclick",

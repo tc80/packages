@@ -14,10 +14,7 @@
     "url": "https://github.com/needim/noty"
   },
   "license": "MIT",
-  "author": {
-    "name": "Nedim Arabacı",
-    "url": "https://github.com/needim/"
-  },
+  "author": "Nedim Arabacı",
   "autoupdate": {
     "source": "npm",
     "target": "noty",

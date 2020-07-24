@@ -15,11 +15,7 @@
     "unicode",
     "emoji set"
   ],
-  "author": {
-    "name": "Emoji One",
-    "email": "ryan@emojione.com",
-    "url": "https://www.emojione.com"
-  },
+  "author": "Emoji One <ryan@emojione.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/emojione/emojione.git",

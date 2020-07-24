@@ -3,11 +3,7 @@
   "filename": "pablo.min.js",
   "description": "A tool for creating interactive SVG drawings and animations for the web.",
   "homepage": "http://pablojs.com",
-  "author": {
-    "name": "dharmafly",
-    "email": "hello@dharmafly.com",
-    "url": "https://github.com/dharmafly"
-  },
+  "author": "dharmafly <hello@dharmafly.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/premasagar/pablo.git"

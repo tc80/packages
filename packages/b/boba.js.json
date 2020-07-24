@@ -10,10 +10,7 @@
     "analytics",
     "tracking"
   ],
-  "author": {
-    "name": "Mike Anderson",
-    "url": "https://github.com/athaeryn"
-  },
+  "author": "Mike Anderson",
   "license": "MIT",
   "homepage": "http://boba.space150.com",
   "autoupdate": {

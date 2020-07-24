@@ -5,9 +5,7 @@
   "keywords": [
     "charts"
   ],
-  "author": {
-    "name": "ankane"
-  },
+  "author": "ankane",
   "license": "MIT",
   "repository": {
     "type": "git",

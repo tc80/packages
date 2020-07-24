@@ -9,11 +9,7 @@
     "download"
   ],
   "license": "MIT",
-  "author": {
-    "name": "dandavis",
-    "email": "rndme@users.noreply.github.com",
-    "url": "http://danml.com/"
-  },
+  "author": "dandavis <rndme@users.noreply.github.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/rndme/download.git"

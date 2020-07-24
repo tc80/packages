@@ -9,9 +9,7 @@
     "pdf",
     "generator"
   ],
-  "author": {
-    "name": "Danny Veldhoen"
-  },
+  "author": "Danny Veldhoen",
   "license": "MIT",
   "homepage": "https://easyinvoice.cloud",
   "repository": {

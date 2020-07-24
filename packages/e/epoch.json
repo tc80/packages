@@ -23,8 +23,5 @@
     "url": "https://github.com/epochjs/epoch.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "rsandor",
-    "url": "https://github.com/rsandor"
-  }
+  "author": "rsandor"
 }

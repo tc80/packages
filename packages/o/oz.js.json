@@ -3,11 +3,7 @@
   "filename": "oz.min.js",
   "description": "A microkernel for modular javascript, a toolchain for modern front-end, a micro-framework for growable WebApp",
   "homepage": "https://ozjs.org",
-  "author": {
-    "name": "dexteryy",
-    "email": "dexter.yy@gmail.com",
-    "url": "https://github.com/dexteryy"
-  },
+  "author": "dexteryy <dexter.yy@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/dexteryy/OzJS.git"

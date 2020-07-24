@@ -1,11 +1,7 @@
 {
   "name": "autosize.js",
   "filename": "autosize.min.js",
-  "author": {
-    "name": "Jack Moore",
-    "url": "http://www.jacklmoore.com",
-    "email": "hello@jacklmoore.com"
-  },
+  "author": "Jack Moore <hello@jacklmoore.com>",
   "description": "Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.",
   "homepage": "http://www.jacklmoore.com/autosize",
   "keywords": [

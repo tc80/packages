@@ -6,10 +6,7 @@
     "form",
     "json-schema"
   ],
-  "author": {
-    "name": "Nicolas Perriault",
-    "email": "nperriault@mozilla.com"
-  },
+  "author": "Nicolas Perriault <nperriault@mozilla.com>",
   "license": "Apache-2.0",
   "homepage": "https://github.com/mozilla-services/react-jsonschema-form#readme",
   "repository": {

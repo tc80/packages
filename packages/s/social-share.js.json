@@ -17,10 +17,7 @@
     "facebook",
     "google"
   ],
-  "author": {
-    "name": "overtrue",
-    "url": "https://github.com/overtrue"
-  },
+  "author": "overtrue",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

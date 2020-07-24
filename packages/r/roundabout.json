@@ -11,10 +11,7 @@
     "3d"
   ],
   "homepage": "http://fredhq.com/projects/roundabout",
-  "author": {
-    "name": "Fred LeBlanc",
-    "email": "fred@fredhq.com"
-  },
+  "author": "Fred LeBlanc <fred@fredhq.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/fredleblanc/roundabout.git"

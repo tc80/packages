@@ -10,11 +10,7 @@
     "sgp4",
     "satellite"
   ],
-  "author": {
-    "name": "Shashwat Kandadai",
-    "email": "shashwatak@gmail.com",
-    "url": "https://github.com/shashwatak"
-  },
+  "author": "Shashwat Kandadai <shashwatak@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

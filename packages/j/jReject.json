@@ -7,10 +7,7 @@
     "reject",
     "popup"
   ],
-  "author": {
-    "name": "Steven Bower",
-    "url": "https://github.com/BluSyn"
-  },
+  "author": "Steven Bower",
   "licenses": [
     "MIT",
     "GPL-2.0"

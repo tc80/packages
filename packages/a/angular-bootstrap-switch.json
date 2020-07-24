@@ -1,11 +1,7 @@
 {
   "name": "angular-bootstrap-switch",
   "filename": "angular-bootstrap-switch.min.js",
-  "author": {
-    "name": "Francesco Pontillo",
-    "email": "francescopontillo@gmail.com",
-    "url": "https://github.com/frapontillo"
-  },
+  "author": "Francesco Pontillo <francescopontillo@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/frapontillo/angular-bootstrap-switch.git"

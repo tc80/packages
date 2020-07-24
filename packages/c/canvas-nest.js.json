@@ -13,10 +13,7 @@
     "url": "git://github.com/hustcc/canvas-nest.js.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "atool",
-    "url": "https://atool.vip/"
-  },
+  "author": "atool",
   "autoupdate": {
     "source": "npm",
     "target": "canvas-nest.js",

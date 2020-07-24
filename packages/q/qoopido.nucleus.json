@@ -4,10 +4,7 @@
   "description": "Lightweight, atomic and modular JavaScript utility library that strongly encourages the creation and usage of small yet flexible, reusable and easily maintainable modules.",
   "homepage": "https://nucleus.qoopido.com/",
   "license": "MIT",
-  "author": {
-    "name": "Dirk Lueth",
-    "email": "info@qoopido.com"
-  },
+  "author": "Dirk Lueth <info@qoopido.com>",
   "keywords": [
     "atomic",
     "modular",

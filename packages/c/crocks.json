@@ -10,11 +10,7 @@
     "Applicative",
     "Functor"
   ],
-  "author": {
-    "name": "Ian Hofmann-Hicks",
-    "email": "evilsoft@aol.com",
-    "url": "https://github.com/evilsoft"
-  },
+  "author": "Ian Hofmann-Hicks <evilsoft@aol.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/evilsoft/crocks/issues"

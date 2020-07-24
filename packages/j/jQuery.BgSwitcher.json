@@ -6,11 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/rewish/jquery-bgswitcher.git"
   },
-  "author": {
-    "name": "rewish",
-    "email": "rewish.org@gmail.com",
-    "url": "https://github.com/rewish"
-  },
+  "author": "rewish <rewish.org@gmail.com>",
   "license": "MIT",
   "keywords": [
     "jQuery",

@@ -8,10 +8,7 @@
     "css-reset",
     "css-normalise"
   ],
-  "author": {
-    "name": "Chris Pearce",
-    "email": "crite70@gmail.com"
-  },
+  "author": "Chris Pearce <crite70@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/chris-pearce/backpack.css#readme",
   "repository": {

@@ -18,11 +18,7 @@
   ],
   "homepage": "https://ondras.github.io/rot.js/hp/",
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "Ondřej Žára",
-    "email": "ondrej.zara@gmail.com",
-    "url": "https://ondras.zarovi.cz/"
-  },
+  "author": "Ondřej Žára <ondrej.zara@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ondras/rot.js.git"

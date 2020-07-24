@@ -10,10 +10,7 @@
     "mask",
     "plugins"
   ],
-  "author": {
-    "name": "Robin Herbots",
-    "url": "https://github.com/RobinHerbots"
-  },
+  "author": "Robin Herbots",
   "license": "MIT",
   "homepage": "https://github.com/RobinHerbots/Inputmask",
   "repository": {

@@ -11,9 +11,7 @@
     "type": "git",
     "url": "git://github.com/typicaljoe/taffydb.git"
   },
-  "author": {
-    "name": "Ian Smith"
-  },
+  "author": "Ian Smith",
   "license": "BSD",
   "autoupdate": {
     "source": "npm",

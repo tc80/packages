@@ -16,10 +16,7 @@
     "YQL",
     "YQL API"
   ],
-  "author": {
-    "name": "Engin KIZIL",
-    "url": "http://enginkizil.com"
-  },
+  "author": "Engin KIZIL",
   "license": "MIT",
   "homepage": "http://jquery-plugins.net/FeedEk/FeedEk.html",
   "autoupdate": {

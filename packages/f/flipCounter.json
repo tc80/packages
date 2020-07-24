@@ -10,9 +10,6 @@
     "duration"
   ],
   "homepage": "http://bloggingsquared.com/jquery/flipcounter/",
-  "author": {
-    "name": "Brolly.ca",
-    "email": "info@brolly.ca"
-  },
+  "author": "Brolly.ca <info@brolly.ca>",
   "license": "BSD-3-Clause"
 }

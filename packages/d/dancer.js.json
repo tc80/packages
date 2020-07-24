@@ -11,10 +11,7 @@
     "url": "https://github.com/jsantell/dancer.js"
   },
   "license": "MIT",
-  "author": {
-    "name": "Jordan Santell",
-    "url": "http://jsantell.com"
-  },
+  "author": "Jordan Santell",
   "autoupdate": {
     "source": "npm",
     "target": "dancer",

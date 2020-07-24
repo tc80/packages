@@ -1,8 +1,5 @@
 {
-  "author": {
-    "name": "Shiquan Sun",
-    "url": "https://github.com/imsun"
-  },
+  "author": "Shiquan Sun",
   "description": "A comment system based on GitHub Issues",
   "filename": "gitment.browser.js",
   "homepage": "https://imsun.github.io/gitment/",

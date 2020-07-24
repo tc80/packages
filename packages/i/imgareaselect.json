@@ -10,11 +10,7 @@
     "crop",
     "cropper"
   ],
-  "author": {
-    "name": "Michał Wojciechowski",
-    "email": "odyniec@odyniec.net",
-    "url": "http://odyniec.net/"
-  },
+  "author": "Michał Wojciechowski <odyniec@odyniec.net>",
   "licenses": [
     "GPL-2.0",
     "MIT"

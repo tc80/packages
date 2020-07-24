@@ -1,10 +1,7 @@
 {
   "name": "bulma",
   "homepage": "http://bulma.io",
-  "author": {
-    "name": "jgthms",
-    "email": "bbxdesign@gmail.com"
-  },
+  "author": "jgthms <bbxdesign@gmail.com>",
   "description": "Modern CSS framework based on Flexbox",
   "filename": "css/bulma.min.css",
   "repository": {

@@ -16,11 +16,7 @@
     "ajax",
     "localStorage"
   ],
-  "author": {
-    "name": "Zura Sekhniashvili",
-    "email": "zurasekhniashvili@gmail.com",
-    "url": "https://github.com/arboshiki"
-  },
+  "author": "Zura Sekhniashvili <zurasekhniashvili@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

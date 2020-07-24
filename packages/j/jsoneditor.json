@@ -11,10 +11,7 @@
     "format",
     "validate"
   ],
-  "author": {
-    "name": "Jos de Jong",
-    "web": "http://josdejong.com"
-  },
+  "author": "Jos de Jong",
   "repository": {
     "type": "git",
     "url": "git://github.com/josdejong/jsoneditor.git"

@@ -11,10 +11,7 @@
     "format",
     "mask"
   ],
-  "author": {
-    "name": "Eduardo Cuducos",
-    "url": "http://about.me/cuducos"
-  },
+  "author": "Eduardo Cuducos",
   "homepage": "http://jquerypriceformat.com",
   "license": "MIT",
   "repository": {

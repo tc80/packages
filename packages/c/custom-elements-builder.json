@@ -3,10 +3,7 @@
   "description": "custom-element-builder is just a set of builders, natively scalable and designed for FRP.",
   "filename": "ceb.min.js",
   "homepage": "https://tmorin.github.io/ceb",
-  "author": {
-    "name": "Thibault Morin",
-    "url": "https://github.com/tmorin"
-  },
+  "author": "Thibault Morin",
   "repository": {
     "type": "git",
     "url": "git://github.com/tmorin/ceb.git"

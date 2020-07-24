@@ -3,10 +3,7 @@
   "description": "Lego JS",
   "filename": "lego.min.js",
   "license": "MIT",
-  "author": {
-    "name": "Tyler Benziger",
-    "url": "http://tybenz.com"
-  },
+  "author": "Tyler Benziger",
   "repository": {
     "type": "git",
     "url": "https://github.com/tybenz/presentation-js-legos.git"

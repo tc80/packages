@@ -3,10 +3,7 @@
   "filename": "wavedrom.min.js",
   "description": "Digital timing diagram in your browser",
   "homepage": "http://wavedrom.com",
-  "author": {
-    "name": "drom",
-    "email": "alex.drom@gmail.com"
-  },
+  "author": "drom <alex.drom@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

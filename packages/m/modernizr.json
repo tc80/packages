@@ -31,8 +31,5 @@
     "url": "https://github.com/Modernizr/Modernizr"
   },
   "license": "MIT",
-  "author": {
-    "name": "Modernizr",
-    "url": "http://modernizr.com/"
-  }
+  "author": "Modernizr"
 }

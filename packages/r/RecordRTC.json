@@ -15,11 +15,7 @@
     "gif-recording",
     "audio/video recording"
   ],
-  "author": {
-    "name": "Muaz Khan",
-    "email": "muazkh@gmail.com",
-    "url": "http://www.muazkhan.com/"
-  },
+  "author": "Muaz Khan <muazkh@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

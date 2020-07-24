@@ -8,10 +8,7 @@
     "parallel coordinates"
   ],
   "homepage": "http://syntagmatic.github.io/parallel-coordinates/",
-  "author": {
-    "name": "Kai Chang",
-    "url": "http://exposedata.com/"
-  },
+  "author": "Kai Chang",
   "repository": {
     "type": "git",
     "url": "https://github.com/syntagmatic/parallel-coordinates.git"

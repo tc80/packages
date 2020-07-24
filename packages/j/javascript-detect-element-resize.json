@@ -10,10 +10,7 @@
     "resize",
     "events"
   ],
-  "author": {
-    "name": "Sebastián Décima",
-    "url": "https://github.com/sdecima/"
-  },
+  "author": "Sebastián Décima",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

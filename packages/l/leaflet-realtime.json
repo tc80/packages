@@ -10,10 +10,7 @@
     "leaflet",
     "realtime"
   ],
-  "author": {
-    "name": "Per Liedman",
-    "email": "per@liedman.net"
-  },
+  "author": "Per Liedman <per@liedman.net>",
   "license": "ISC",
   "autoupdate": {
     "source": "npm",

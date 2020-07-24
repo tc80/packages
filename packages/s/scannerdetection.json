@@ -1,10 +1,7 @@
 {
   "name": "scannerdetection",
   "filename": "jquery.scannerdetection.min.js",
-  "author": {
-    "name": "Julien Maurel",
-    "url": "https://github.com/julien-maurel"
-  },
+  "author": "Julien Maurel",
   "license": "MIT",
   "description": "jQuery Scanner Detection is a small plugin to detect when user use a scanner (barcode, QR Code...) instead of a keyboard, and call specific callbacks.",
   "keywords": [

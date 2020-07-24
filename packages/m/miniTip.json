@@ -8,10 +8,7 @@
     "tip",
     "ui"
   ],
-  "author": {
-    "name": "James Simpson",
-    "url": "http://goldfirestudios.com"
-  },
+  "author": "James Simpson",
   "licenses": [
     "MIT",
     "GPL"

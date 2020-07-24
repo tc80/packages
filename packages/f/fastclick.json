@@ -27,8 +27,5 @@
     "url": "git://github.com/ftlabs/fastclick.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Rowan Beentje",
-    "email": "rowan.beentje@ft.com"
-  }
+  "author": "Rowan Beentje <rowan.beentje@ft.com>"
 }

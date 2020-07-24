@@ -6,9 +6,7 @@
     "combination",
     "permutation"
   ],
-  "author": {
-    "name": "Dan Kogai"
-  },
+  "author": "Dan Kogai",
   "license": "MIT",
   "homepage": "https://github.com/dankogai/js-combinatorics#readme",
   "repository": {

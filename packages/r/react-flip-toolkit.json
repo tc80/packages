@@ -7,9 +7,7 @@
     "transition",
     "animation"
   ],
-  "author": {
-    "name": "Alex Holachek"
-  },
+  "author": "Alex Holachek",
   "license": "MIT",
   "homepage": "https://github.com/aholachek/react-flip-toolkit#readme",
   "repository": {

@@ -2,10 +2,7 @@
   "name": "object-fit",
   "filename": "polyfill.object-fit.min.js",
   "homepage": "https://github.com/anselmh/dialog-polyfill",
-  "author": {
-    "name": "anselmh",
-    "url": "https://helloanselm.com/"
-  },
+  "author": "anselmh",
   "description": "Polyfill for the CSS object-fit property to fit images into containers",
   "keywords": [
     "html5",

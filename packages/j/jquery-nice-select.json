@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git://github.com/hernansartorio/jquery-nice-select.git"
   },
-  "author": {
-    "name": "Hernán Sartorio",
-    "url": "https://github.com/hernansartorio"
-  },
+  "author": "Hernán Sartorio",
   "license": "MIT",
   "homepage": "http://hernansartorio.com/jquery-nice-select/",
   "autoupdate": {

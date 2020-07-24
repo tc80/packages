@@ -14,9 +14,5 @@
     "url": "https://github.com/boazsender/backbone.routefilter.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Boaz Sender",
-    "email": "boaz@bocoup.com",
-    "url": "http://boazsender.com"
-  }
+  "author": "Boaz Sender <boaz@bocoup.com>"
 }

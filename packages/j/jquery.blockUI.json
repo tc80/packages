@@ -9,10 +9,7 @@
     "dialog",
     "modal"
   ],
-  "author": {
-    "name": "M. Alsup",
-    "url": "http://jquery.malsup.com"
-  },
+  "author": "M. Alsup",
   "licenses": [
     "MIT",
     "GPL-2.0"

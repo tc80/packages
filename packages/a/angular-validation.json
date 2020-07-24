@@ -7,11 +7,7 @@
     "url": "git+https://github.com/huei90/angular-validation.git"
   },
   "homepage": "https://huei90.github.io/angular-validation/",
-  "author": {
-    "email": "huei90@gmail.com",
-    "name": "Huei Tan",
-    "url": "https://github.com/huei90"
-  },
+  "author": "Huei Tan <huei90@gmail.com>",
   "license": "MIT",
   "keywords": [
     "angular",

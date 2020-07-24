@@ -6,11 +6,7 @@
     "time",
     "age"
   ],
-  "author": {
-    "name": "Kevin Sylvestre",
-    "email": "kevin@ksylvest.com",
-    "url": "http://ksylvest.com/"
-  },
+  "author": "Kevin Sylvestre <kevin@ksylvest.com>",
   "homepage": "https://ksylvest.github.com/jquery-age",
   "autoupdate": {
     "source": "git",

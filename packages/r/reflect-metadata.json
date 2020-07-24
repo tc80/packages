@@ -12,11 +12,7 @@
     "javascript",
     "reflect"
   ],
-  "author": {
-    "name": "Ron Buckton",
-    "email": "ron.buckton@microsoft.com",
-    "url": "http://github.com/rbuckton"
-  },
+  "author": "Ron Buckton <ron.buckton@microsoft.com>",
   "license": "Apache-2.0",
   "homepage": "http://rbuckton.github.io/ReflectDecorators",
   "autoupdate": {

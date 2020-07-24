@@ -8,10 +8,7 @@
     "highlight.js",
     "angular-highlightjs"
   ],
-  "author": {
-    "name": "Chih-Hsuan Fan",
-    "email": "pc035860@gmail.com"
-  },
+  "author": "Chih-Hsuan Fan <pc035860@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -8,11 +8,7 @@
     "url": "https://github.com/rnmp/salvattore"
   },
   "license": "MIT",
-  "author": {
-    "name": "Rolando Murillo",
-    "email": "rolando@bandd.co",
-    "homepage": "http://rolandomurillo.com/"
-  },
+  "author": "Rolando Murillo <rolando@bandd.co>",
   "keywords": [
     "grid",
     "layout",

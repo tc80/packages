@@ -13,10 +13,7 @@
     "url": "https://github.com/wa0x6e/cal-heatmap.git"
   },
   "homepage": "http://cal-heatmap.com",
-  "author": {
-    "name": "Wan Qi Chen",
-    "url": "http://www.kamisama.me"
-  },
+  "author": "Wan Qi Chen",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

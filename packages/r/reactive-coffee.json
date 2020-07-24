@@ -18,10 +18,7 @@
     "type": "git",
     "url": "https://github.com/bobtail-dev/bobtail"
   },
-  "author": {
-    "name": "Yang Zhang",
-    "url": "http://yz.mit.edu/"
-  },
+  "author": "Yang Zhang",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/bobtail-dev/bobtail.git",

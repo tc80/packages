@@ -2,10 +2,7 @@
   "name": "webshim",
   "filename": "minified/polyfiller.js",
   "title": "Webshims - polyfills jQuery with many HTML5 features",
-  "author": {
-    "name": "Alexander Farkas",
-    "url": "https://github.com/aFarkas/"
-  },
+  "author": "Alexander Farkas",
   "keywords": [
     "webshims",
     "polyfill",

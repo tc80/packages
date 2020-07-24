@@ -2,9 +2,7 @@
   "name": "rx-angular",
   "filename": "rx.angular.min.js",
   "description": "Library for bridging between RxJS and AngularJS.",
-  "author": {
-    "name": "Microsoft"
-  },
+  "author": "Microsoft",
   "repository": {
     "type": "git",
     "url": "https://github.com/Reactive-Extensions/rx.angular.js.git"

@@ -4,10 +4,7 @@
   "filename": "gh-fork-ribbon.min.css",
   "description": "A CSS-only, resolution-independent 'Fork me on GitHub' ribbon.",
   "homepage": "https://simonwhitaker.github.io/github-fork-ribbon-css/",
-  "author": {
-    "name": "Simon Whitaker",
-    "url": "https://github.com/simonwhitaker"
-  },
+  "author": "Simon Whitaker",
   "keywords": [
     "css",
     "fork",

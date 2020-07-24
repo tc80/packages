@@ -6,11 +6,7 @@
     "vuex",
     "plugin"
   ],
-  "author": {
-    "name": "Robin van der Vleuten",
-    "email": "robin@webstronauts.co",
-    "url": "robinvdvleuten.nl"
-  },
+  "author": "Robin van der Vleuten <robin@webstronauts.co>",
   "license": "MIT",
   "homepage": "https://github.com/robinvdvleuten/vuex-persistedstate#readme",
   "repository": {

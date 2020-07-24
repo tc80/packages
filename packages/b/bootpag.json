@@ -8,10 +8,7 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": {
-    "name": "Botmonster",
-    "url": "http://blog.botmonster.com"
-  },
+  "author": "Botmonster",
   "license": "MIT",
   "repository": {
     "type": "git",

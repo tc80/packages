@@ -2,10 +2,7 @@
   "name": "fg-snapper",
   "filename": "snapper.min.js",
   "description": "A CSS Snap-Points based carousel (and lightweight polyfill)",
-  "author": {
-    "name": "Scott Jehl, Filament Group, Inc.",
-    "url": "https://filamentgroup.com"
-  },
+  "author": "Scott Jehl, Filament Group, Inc.",
   "repository": {
     "type": "git",
     "url": "git://github.com/filamentgroup/snapper.git"

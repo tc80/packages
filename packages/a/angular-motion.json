@@ -6,11 +6,7 @@
     "angular",
     "animation"
   ],
-  "author": {
-    "name": "Olivier Louvignes",
-    "email": "olivier@mg-crea.com",
-    "url": "https://github.com/mgcrea"
-  },
+  "author": "Olivier Louvignes <olivier@mg-crea.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/mgcrea/angular-motion.git"

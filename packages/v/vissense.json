@@ -12,9 +12,7 @@
     "monitor",
     "observe"
   ],
-  "author": {
-    "name": "tbk"
-  },
+  "author": "tbk",
   "repository": {
     "type": "git",
     "url": "https://github.com/vissense/vissense.git"

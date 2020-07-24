@@ -2,10 +2,7 @@
   "name": "jquery.caroufredsel",
   "filename": "jquery.carouFredSel.packed.js",
   "description": "jQuery.carouFredSel is a plugin that turns any kind of HTML element into a carousel.",
-  "author": {
-    "name": "Gilbert Pellegrom",
-    "url": "http://gilbert.pellegrom.me"
-  },
+  "author": "Gilbert Pellegrom",
   "homepage": "http://caroufredsel.dev7studios.com/",
   "keywords": [
     "carousel",

@@ -1,11 +1,7 @@
 {
   "name": "prettydiff",
   "filename": "prettydiff.min.js",
-  "author": {
-    "name": "Austin Cheney",
-    "email": "info@prettydiff.com",
-    "url": "http://prettydiff.com/"
-  },
+  "author": "Austin Cheney <info@prettydiff.com>",
   "description": "Language aware code comparison tool for several web based languages. It also beautifies, minifies, and a few other things.",
   "keywords": [
     "diff",

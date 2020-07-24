@@ -13,10 +13,7 @@
     "url": "https://github.com/jquery/jquery-migrate.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "jQuery Foundation and other contributors",
-    "url": "https://github.com/jquery/jquery-migrate/blob/master/AUTHORS.txt"
-  },
+  "author": "jQuery Foundation and other contributors",
   "autoupdate": {
     "source": "npm",
     "target": "jquery-migrate",

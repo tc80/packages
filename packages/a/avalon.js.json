@@ -4,10 +4,7 @@
   "title": "avalon",
   "description": "A lightweight,high-performance and easy-to-learn javascript MVVM framework",
   "homepage": "http://avalonjs.github.io/",
-  "author": {
-    "name": "RubyLouvre(司徒正美) and other contributors",
-    "url": "http://home.cnblogs.com/u/rubylouvre/"
-  },
+  "author": "RubyLouvre(司徒正美) and other contributors",
   "repository": {
     "type": "git",
     "url": "https://github.com/RubyLouvre/avalon.git"

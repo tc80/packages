@@ -32,8 +32,5 @@
     "type": "git",
     "url": "https://github.com/DataTables/DataTables.git"
   },
-  "author": {
-    "name": "Allan Jardine",
-    "url": "http://sprymedia.co.uk"
-  }
+  "author": "Allan Jardine"
 }

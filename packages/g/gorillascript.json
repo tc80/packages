@@ -12,10 +12,7 @@
     "url": "https://github.com/ckknight/gorillascript"
   },
   "license": "MIT",
-  "author": {
-    "name": "Cameron Kenneth Knight",
-    "email": "ckknight@gmail.com"
-  },
+  "author": "Cameron Kenneth Knight <ckknight@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "gorillascript",

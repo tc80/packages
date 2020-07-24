@@ -8,10 +8,7 @@
     "vue-bulma",
     "components"
   ],
-  "author": {
-    "name": "Rafael Beraldo",
-    "email": "rafael.pimpa@gmail.com"
-  },
+  "author": "Rafael Beraldo <rafael.pimpa@gmail.com>",
   "license": "MIT",
   "homepage": "https://buefy.org",
   "repository": {

@@ -13,11 +13,7 @@
   ],
   "homepage": "https://sirxemic.github.io/jquery.ripples/",
   "license": "MIT",
-  "author": {
-    "name": "Pim Schreurs",
-    "url": "http://sirxemic.com/",
-    "email": "pimschreurs@gmail.com"
-  },
+  "author": "Pim Schreurs <pimschreurs@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/sirxemic/jquery.ripples.git"

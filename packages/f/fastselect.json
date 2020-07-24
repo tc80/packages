@@ -7,10 +7,7 @@
     "url": "https://github.com/dbrekalo/fastselect"
   },
   "license": "MIT",
-  "author": {
-    "email": "dbrekalo@gmail.com",
-    "name": "Damir Brekalo"
-  },
+  "author": "Damir Brekalo <dbrekalo@gmail.com>",
   "keywords": [
     "select",
     "fast",

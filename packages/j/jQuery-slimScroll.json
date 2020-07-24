@@ -13,10 +13,7 @@
     "ui"
   ],
   "homepage": "http://rocha.la/jQuery-slimScroll/",
-  "author": {
-    "name": "Piotr Rochala",
-    "url": "http://rocha.la/"
-  },
+  "author": "Piotr Rochala",
   "licenses": [
     "MIT",
     {

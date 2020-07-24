@@ -2,11 +2,7 @@
   "name": "gifffer",
   "filename": "gifffer.min.js",
   "description": "JavaScript library that prevents the autoplaying of the animated Gifs",
-  "author": {
-    "name": "Krasimir Tsonev",
-    "email": "info@krasimirtsonev.com",
-    "url": "http://krasimirtsonev.com"
-  },
+  "author": "Krasimir Tsonev <info@krasimirtsonev.com>",
   "license": "MIT",
   "keywords": [
     "gif",

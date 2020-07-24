@@ -13,10 +13,7 @@
     "svg",
     "javascript"
   ],
-  "author": {
-    "name": "Benjamin De Cock",
-    "email": "ben@deaxon.com"
-  },
+  "author": "Benjamin De Cock <ben@deaxon.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

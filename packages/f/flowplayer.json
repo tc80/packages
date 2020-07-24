@@ -16,10 +16,7 @@
     "url": "https://github.com/flowplayer/flowplayer"
   },
   "license": "GPL-3.0",
-  "author": {
-    "name": "Niklas Närhinen",
-    "url": "https://github.com/nnarhinen"
-  },
+  "author": "Niklas Närhinen",
   "autoupdate": {
     "source": "npm",
     "target": "flowplayer",

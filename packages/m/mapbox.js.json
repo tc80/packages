@@ -2,9 +2,7 @@
   "name": "mapbox.js",
   "description": "Mapbox plugin for Leaflet",
   "keywords": [],
-  "author": {
-    "name": "Mapbox"
-  },
+  "author": "Mapbox",
   "license": "BSD-3-Clause",
   "homepage": "http://mapbox.com/",
   "repository": {

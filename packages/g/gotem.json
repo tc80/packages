@@ -7,11 +7,7 @@
     "type": "git",
     "url": "https://github.com/callmecavs/gotem"
   },
-  "author": {
-    "name": "Michael Cavalea",
-    "email": "callmecavs@gmail.com",
-    "url": "http://callmecavs.com/"
-  },
+  "author": "Michael Cavalea <callmecavs@gmail.com>",
   "keywords": [
     "browser",
     "clipboard",

@@ -17,10 +17,7 @@
     "url": "https://github.com/less/less.js"
   },
   "license": "Apache-2.0",
-  "author": {
-    "name": "Alexis Sellier",
-    "email": "self@cloudhead.net"
-  },
+  "author": "Alexis Sellier <self@cloudhead.net>",
   "autoupdate": {
     "source": "npm",
     "target": "less",

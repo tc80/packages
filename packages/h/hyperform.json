@@ -3,10 +3,7 @@
   "filename": "hyperform.min.js",
   "description": "Capture form validation back from the browser",
   "homepage": "https://hyperform.js.org/",
-  "author": {
-    "name": "Manuel Strehl",
-    "url": "http://www.manuel-strehl.de"
-  },
+  "author": "Manuel Strehl",
   "keywords": [
     "form",
     "forms",

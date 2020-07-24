@@ -12,10 +12,7 @@
     "url": "https://github.com/vega/vega.git"
   },
   "license": "BSD-3-Clause",
-  "author": {
-    "name": "UW Interactive Data Lab",
-    "url": "http://idl.cs.washington.edu"
-  },
+  "author": "UW Interactive Data Lab",
   "autoupdate": {
     "source": "npm",
     "target": "vega",

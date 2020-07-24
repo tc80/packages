@@ -12,11 +12,7 @@
     "stringify",
     "parse"
   ],
-  "author": {
-    "name": "Blake Embrey",
-    "email": "hello@blakeembrey.com",
-    "url": "https://blakeembrey.me"
-  },
+  "author": "Blake Embrey <hello@blakeembrey.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

@@ -12,11 +12,7 @@
     "url": "https://github.com/1000ch/grd"
   },
   "homepage": "https://1000ch.github.io/grd",
-  "author": {
-    "name": "Shogo Sensui",
-    "email": "shogo.sensui@gmail.com",
-    "url": "https://github.com/1000ch"
-  },
+  "author": "Shogo Sensui <shogo.sensui@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

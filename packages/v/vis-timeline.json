@@ -17,10 +17,7 @@
     "url": "https://github.com/visjs/vis-timeline.git"
   },
   "license": "(Apache-2.0 OR MIT)",
-  "author": {
-    "name": "VisJs and other contributors",
-    "url": "https://opencollective.com/visjs/contributors.svg"
-  },
+  "author": "VisJs and other contributors",
   "autoupdate": {
     "source": "npm",
     "target": "vis-timeline",

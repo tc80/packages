@@ -7,10 +7,7 @@
     "type": "git",
     "url": "https://github.com/namuol/cheet.js"
   },
-  "author": {
-    "name": "Louis Acresti",
-    "url": "https://github.com/namuol"
-  },
+  "author": "Louis Acresti",
   "keywords": [
     "cheet",
     "cheat",

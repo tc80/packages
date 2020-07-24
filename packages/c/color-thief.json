@@ -1,11 +1,7 @@
 {
   "name": "color-thief",
   "filename": "color-thief.min.js",
-  "author": {
-    "name": "Lokesh Dhakar",
-    "email": "lokesh.dhakar@gmail.com",
-    "url": "http://lokeshdhakar.com/"
-  },
+  "author": "Lokesh Dhakar <lokesh.dhakar@gmail.com>",
   "description": "Get the dominant color or color palette from an image.",
   "keywords": [
     "color",

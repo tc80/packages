@@ -7,11 +7,7 @@
     "flip",
     "jquery.flip.min.js"
   ],
-  "author": {
-    "name": "Nattawat Nonsung",
-    "email": "armmer1@gmail.com",
-    "url": "https://github.com/nnattawat"
-  },
+  "author": "Nattawat Nonsung <armmer1@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/nnattawat/flip.git"

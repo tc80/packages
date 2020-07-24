@@ -1,8 +1,5 @@
 {
-  "author": {
-    "email": "wieringen@gmail.com",
-    "name": "Maarten Baijs"
-  },
+  "author": "Maarten Baijs <wieringen@gmail.com>",
   "description": "A lightweight cross browser jQuery based scrollbar.",
   "homepage": "http://www.baijs.com/tinyscrollbar",
   "keywords": [

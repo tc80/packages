@@ -6,10 +6,7 @@
     "type": "git",
     "url": "https://github.com/Zizzamia/ng-tasty.git"
   },
-  "author": {
-    "name": "Leonardo Zizzamia",
-    "url": "https://github.com/Zizzamia"
-  },
+  "author": "Leonardo Zizzamia",
   "license": "MIT",
   "keywords": [
     "ng",

@@ -5,9 +5,7 @@
     "cytoscape",
     "cytoscape-extension"
   ],
-  "author": {
-    "name": "Cytoscape"
-  },
+  "author": "Cytoscape",
   "license": "MIT",
   "homepage": "https://github.com/cytoscape/cytoscape.js-popper",
   "repository": {

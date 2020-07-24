@@ -1,9 +1,5 @@
 {
-  "author": {
-    "email": "kswedberg@gmail.com",
-    "name": "Karl Swedberg",
-    "url": "http://www.learningjquery.com/"
-  },
+  "author": "Karl Swedberg <kswedberg@gmail.com>",
   "description": "Expand and collapse HTML content",
   "homepage": "https://kswedberg.github.io/jquery-expander/",
   "keywords": [

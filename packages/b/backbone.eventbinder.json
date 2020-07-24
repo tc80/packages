@@ -11,9 +11,5 @@
     "url": "https://github.com/marionettejs/backbone.eventbinder"
   },
   "license": "MIT",
-  "author": {
-    "name": "Derick Bailey",
-    "email": "marionettejs@gmail.com",
-    "web": "http://derickbailey.lostechies.com"
-  }
+  "author": "Derick Bailey <marionettejs@gmail.com>"
 }

@@ -33,9 +33,5 @@
       }
     ]
   },
-  "author": {
-    "name": "Wim Barelds",
-    "email": "wim.barelds@gmail.com",
-    "url": "http://www.wimbarelds.nl/"
-  }
+  "author": "Wim Barelds <wim.barelds@gmail.com>"
 }

@@ -1,9 +1,6 @@
 {
   "name": "ng-sortable",
-  "author": {
-    "name": "Muhammed Ashik",
-    "email": "https://github.com/a5hik"
-  },
+  "author": "Muhammed Ashik <https://github.com/a5hik>",
   "description": "Angular Library for Drag and Drop, supports Sortable and Draggable.",
   "filename": "ng-sortable.min.js",
   "keywords": [

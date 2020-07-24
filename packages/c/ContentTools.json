@@ -1,11 +1,7 @@
 {
   "name": "ContentTools",
   "filename": "content-tools.min.js",
-  "author": {
-    "name": "Anthony Blackshaw",
-    "email": "ant@getme.co.uk",
-    "url": "https://github.com/anthonyjb"
-  },
+  "author": "Anthony Blackshaw <ant@getme.co.uk>",
   "repository": {
     "type": "git",
     "url": "https://github.com/GetmeUK/ContentTools.git"

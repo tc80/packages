@@ -8,10 +8,7 @@
     "facade",
     "websocket"
   ],
-  "author": {
-    "name": "Jan Philipp",
-    "email": "knallisworld@googlemail.com"
-  },
+  "author": "Jan Philipp <knallisworld@googlemail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

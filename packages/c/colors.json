@@ -17,11 +17,7 @@
     "url": "https://github.com/mrmrs/colors.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "@mrmrs",
-    "email": "hi@mrmrs.cc",
-    "url": "http://mrmrs.cc"
-  },
+  "author": "@mrmrs <hi@mrmrs.cc>",
   "autoupdate": {
     "source": "npm",
     "target": "colors.css",

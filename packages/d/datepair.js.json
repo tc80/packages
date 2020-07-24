@@ -3,10 +3,7 @@
   "description": "A javascript plugin for intelligently selecting date and time ranges inspired by Google Calendar.",
   "homepage": "http://jonthornton.github.com/Datepair.js",
   "filename": "datepair.min.js",
-  "author": {
-    "name": "Jon Thornton",
-    "url": "https://github.com/jonthornton"
-  },
+  "author": "Jon Thornton",
   "repository": {
     "type": "git",
     "url": "https://github.com/jonthornton/Datepair.js.git"

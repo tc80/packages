@@ -9,11 +9,7 @@
     "sort",
     "drag"
   ],
-  "author": {
-    "name": "Niklas Rämö",
-    "email": "inramo@gmail.com",
-    "url": "https://github.com/niklasramo"
-  },
+  "author": "Niklas Rämö <inramo@gmail.com>",
   "license": "MIT",
   "homepage": "https://muuri.dev/",
   "repository": {

@@ -22,10 +22,7 @@
     "objects",
     "prototype"
   ],
-  "author": {
-    "name": "Brandon Sara (bsara)",
-    "url": "https://bsara.github.io/"
-  },
+  "author": "Brandon Sara (bsara)",
   "autoupdate": {
     "source": "npm",
     "target": "inheritance-js",

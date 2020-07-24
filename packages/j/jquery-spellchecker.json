@@ -3,10 +3,7 @@
   "filename": "js/jquery.spellchecker.min.js",
   "description": "A lightweight jQuery plugin that can check the spelling of text within a form field or DOM tree.",
   "homepage": "http://jquery-spellchecker.badsyntax.co/",
-  "author": {
-    "name": "Richard Willis",
-    "email": "willis.rh@gmail.com"
-  },
+  "author": "Richard Willis <willis.rh@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

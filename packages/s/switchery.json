@@ -6,11 +6,7 @@
     "type": "git",
     "url": "git://github.com/abpetkov/switchery.git"
   },
-  "author": {
-    "name": "Alexander Petkov",
-    "email": "abpetkov@gmail.com",
-    "url": "https://github.com/abpetkov"
-  },
+  "author": "Alexander Petkov <abpetkov@gmail.com>",
   "keywords": [
     "checkbox",
     "input",

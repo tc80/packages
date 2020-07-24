@@ -8,10 +8,7 @@
   },
   "license": "Apache-2.0",
   "homepage": "https://www.adobe.io/apis/documentcloud/sign/docs/developer-guide/using-pure-javascript-sdk.html",
-  "author": {
-    "name": "Adobe Sign",
-    "email": "adobesignsdk@adobe.com"
-  },
+  "author": "Adobe Sign <adobesignsdk@adobe.com>",
   "keywords": [
     "api",
     "sdk",

@@ -18,10 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/webkul/vivid.git"
   },
-  "author": {
-    "name": "Nitish Kumar",
-    "email": "support@webkul.com"
-  },
+  "author": "Nitish Kumar <support@webkul.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

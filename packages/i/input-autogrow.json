@@ -18,10 +18,7 @@
     "type": "git",
     "url": "git://github.com/westonganger/input-autogrow.git"
   },
-  "author": {
-    "name": "Weston Ganger",
-    "url": "https://westonganger.com/"
-  },
+  "author": "Weston Ganger",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/westonganger/input-autogrow.git",

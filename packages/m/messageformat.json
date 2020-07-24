@@ -11,10 +11,7 @@
     "messageformat",
     "internationalization"
   ],
-  "author": {
-    "name": "Alex Sexton",
-    "email": "alexsexton@gmail.com"
-  },
+  "author": "Alex Sexton <alexsexton@gmail.com>",
   "license": "MIT",
   "homepage": "https://messageformat.github.io/",
   "repository": {

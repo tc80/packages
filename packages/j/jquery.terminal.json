@@ -13,11 +13,7 @@
     "input",
     "ui"
   ],
-  "author": {
-    "name": "Jakub Jankiewicz",
-    "email": "jcubic@onet.pl",
-    "url": "http://jakub.jankiewi.cz"
-  },
+  "author": "Jakub Jankiewicz <jcubic@onet.pl>",
   "license": "MIT",
   "repository": {
     "type": "git",

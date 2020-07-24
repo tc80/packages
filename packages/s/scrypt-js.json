@@ -9,10 +9,7 @@
     "asynchronous",
     "stepwise"
   ],
-  "author": {
-    "name": "Richard Moore",
-    "email": "me@ricmoo.com"
-  },
+  "author": "Richard Moore <me@ricmoo.com>",
   "license": "MIT",
   "homepage": "https://github.com/ricmoo/scrypt-js#readme",
   "repository": {

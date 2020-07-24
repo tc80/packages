@@ -9,11 +9,7 @@
     "lightbox"
   ],
   "filename": "jquery.avgrund.min.js",
-  "author": {
-    "name": "Dmitri Voronianski",
-    "email": "dmitri.voronianski@gmail.com",
-    "url": "http://pixelhunter.me"
-  },
+  "author": "Dmitri Voronianski <dmitri.voronianski@gmail.com>",
   "homepage": "http://labs.voronianski.com/jquery.avgrund.js",
   "repository": {
     "type": "git",

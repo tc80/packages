@@ -7,10 +7,7 @@
     "calendar",
     "dates"
   ],
-  "author": {
-    "name": "Luca Lauretta",
-    "email": "luca@lauretta.info"
-  },
+  "author": "Luca Lauretta <luca@lauretta.info>",
   "license": "(MIT OR GPLv2)",
   "homepage": "https://dubrox.github.io/Multiple-Dates-Picker-for-jQuery-UI",
   "repository": {

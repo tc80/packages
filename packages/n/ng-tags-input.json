@@ -13,10 +13,7 @@
     "tags",
     "tags-input"
   ],
-  "author": {
-    "name": "Michael Benford",
-    "email": "michael@michaelbenford.net"
-  },
+  "author": "Michael Benford <michael@michaelbenford.net>",
   "autoupdate": {
     "source": "npm",
     "target": "ng-tags-input",

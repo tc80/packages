@@ -1,10 +1,7 @@
 {
   "name": "ng-slider",
   "description": "AngularJS directive slider control.",
-  "author": {
-    "name": "Julien Valéry",
-    "email": "darul75@gmail.com"
-  },
+  "author": "Julien Valéry <darul75@gmail.com>",
   "filename": "ng-slider.min.js",
   "repository": {
     "type": "git",

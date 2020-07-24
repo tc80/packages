@@ -14,10 +14,7 @@
     "url": "git+https://github.com/slavanga/baseguide.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "sapprise",
-    "email": "hello@sapprise.com"
-  },
+  "author": "sapprise <hello@sapprise.com>",
   "filename": "css/baseguide.min.css",
   "autoupdate": {
     "source": "git",

@@ -9,10 +9,7 @@
     "switch"
   ],
   "homepage": "https://vsn4ik.github.io/bootstrap-checkbox/",
-  "author": {
-    "name": "Vasily A.",
-    "url": "https://github.com/vsn4ik"
-  },
+  "author": "Vasily A.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vsn4ik/bootstrap-checkbox.git"

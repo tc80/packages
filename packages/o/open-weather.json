@@ -12,10 +12,7 @@
     "sunrise",
     "city"
   ],
-  "author": {
-    "name": "Michael Lynch",
-    "url": "http://michaelynch.com"
-  },
+  "author": "Michael Lynch",
   "repository": {
     "type": "git",
     "url": "https://github.com/michael-lynch/open-weather.git"

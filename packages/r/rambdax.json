@@ -13,10 +13,7 @@
     "ramda",
     "util"
   ],
-  "author": {
-    "name": "Dejan Toteff",
-    "url": "https://github.com/selfrefactor"
-  },
+  "author": "Dejan Toteff",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

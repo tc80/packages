@@ -16,11 +16,7 @@
     "spacing",
     "text"
   ],
-  "author": {
-    "name": "Vinta Chen",
-    "email": "vinta.chen@gmail.com",
-    "url": "https://vinta.ws/"
-  },
+  "author": "Vinta Chen <vinta.chen@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -3,10 +3,7 @@
   "filename": "nomnoml.min.js",
   "description": "The sassy UML renderer that generates diagrams from text",
   "homepage": "http://www.nomnoml.com",
-  "author": {
-    "name": "Daniel Kallin",
-    "email": "daniel.kallin@gmail.com"
-  },
+  "author": "Daniel Kallin <daniel.kallin@gmail.com>",
   "keywords": [
     "uml"
   ],

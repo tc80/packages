@@ -13,10 +13,7 @@
     "navigation",
     "browser"
   ],
-  "author": {
-    "name": "Miller Medeiros",
-    "email": "contact@millermedeiros.com"
-  },
+  "author": "Miller Medeiros <contact@millermedeiros.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -1,7 +1,5 @@
 {
-  "author": {
-    "name": "Hovhannes Bantikyan"
-  },
+  "author": "Hovhannes Bantikyan",
   "description": "Pure css checkboxes and radio buttons for Twitter Bootstrap.",
   "filename": "icheck-bootstrap.min.css",
   "homepage": "https://github.com/bantikyan/icheck-bootstrap#readme",

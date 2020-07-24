@@ -14,10 +14,7 @@
     "img",
     "thumbnails"
   ],
-  "author": {
-    "name": "Alejandro Emparan",
-    "url": "https://github.com/karacas"
-  },
+  "author": "Alejandro Emparan",
   "repository": {
     "type": "git",
     "url": "git://github.com/karacas/imgLiquid.git"

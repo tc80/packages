@@ -2,10 +2,7 @@
   "name": "elevatezoom",
   "filename": "jquery.elevatezoom.min.js",
   "description": "A jQuery image zoom plugin, with tints, easing and gallery integration.",
-  "author": {
-    "name": "Andy Eades",
-    "url": "http://www.elevateweb.co.uk"
-  },
+  "author": "Andy Eades",
   "license": "MIT",
   "homepage": "http://www.elevateweb.co.uk/image-zoom",
   "repository": {

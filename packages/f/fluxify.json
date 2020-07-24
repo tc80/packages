@@ -12,10 +12,7 @@
     "fluxjs",
     "reactjs"
   ],
-  "author": {
-    "name": "Javi Marquez",
-    "url": "http://arqex.com"
-  },
+  "author": "Javi Marquez",
   "license": "GPL-2.0",
   "autoupdate": {
     "source": "npm",

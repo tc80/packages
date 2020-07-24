@@ -15,11 +15,7 @@
     "type": "git",
     "url": "https://github.com/scottschiller/SoundManager2.git"
   },
-  "author": {
-    "name": "Scott Schiller",
-    "email": "spam@schillmania.com",
-    "url": "http://schillmania.com/"
-  },
+  "author": "Scott Schiller <spam@schillmania.com>",
   "license": "BSD",
   "autoupdate": {
     "source": "git",

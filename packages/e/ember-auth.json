@@ -16,8 +16,5 @@
     "url": "https://github.com/heartsentwined/ember-auth"
   },
   "license": "MIT",
-  "author": {
-    "name": "heartsentwined",
-    "email": "heartsentwined.me@gmail.com"
-  }
+  "author": "heartsentwined <heartsentwined.me@gmail.com>"
 }

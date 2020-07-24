@@ -2,11 +2,7 @@
   "name": "template_js",
   "description": "template.js simple and easy to use javascript template.",
   "filename": "template.min.js",
-  "author": {
-    "name": "yanhaijing",
-    "email": "yanhaijing@yeah.net",
-    "url": "http://yanhaijing.com"
-  },
+  "author": "yanhaijing <yanhaijing@yeah.net>",
   "repository": {
     "type": "git",
     "url": "git://github.com/yanhaijing/template.js.git"

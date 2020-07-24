@@ -1,10 +1,7 @@
 {
   "name": "node-uuid",
   "filename": "uuid.min.js",
-  "author": {
-    "email": "robert@broofa.com",
-    "name": "Robert Kieffer"
-  },
+  "author": "Robert Kieffer <robert@broofa.com>",
   "description": "Rigorous implementation of RFC4122 (v1 and v4) UUIDs.",
   "homepage": "https://broofa.github.io/node-uuid/",
   "keywords": [

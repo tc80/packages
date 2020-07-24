@@ -15,10 +15,7 @@
     "javascript",
     "library"
   ],
-  "author": {
-    "name": "Andrew Dillon",
-    "email": "andrew.dillon.j@gmail.com"
-  },
+  "author": "Andrew Dillon <andrew.dillon.j@gmail.com>",
   "license": "MIT",
   "homepage": "https://pdf-lib.js.org/",
   "repository": {

@@ -7,10 +7,7 @@
     "type": "git",
     "url": "https://github.com/algolia/instantsearch.js/"
   },
-  "author": {
-    "name": "Algolia, Inc.",
-    "url": "https://www.algolia.com"
-  },
+  "author": "Algolia, Inc.",
   "keywords": [
     "react",
     "search",

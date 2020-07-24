@@ -10,11 +10,7 @@
     "events",
     "api"
   ],
-  "author": {
-    "name": "Pablo Vallejo",
-    "email": "pabloninety@gmail.com",
-    "url": "http://pablovallejo.me"
-  },
+  "author": "Pablo Vallejo <pabloninety@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/pablovallejo/gillie"

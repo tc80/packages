@@ -3,10 +3,7 @@
   "filename": "jGravity-min.js",
   "description": "jQuery plugin to bring gravity to your site.",
   "homepage": "http://tinybigideas.com/plugins/jquery-gravity/",
-  "author": {
-    "name": "tinybigideas",
-    "email": "craig@tinybigideas.com"
-  },
+  "author": "tinybigideas <craig@tinybigideas.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/tinybigideas/jGravity"

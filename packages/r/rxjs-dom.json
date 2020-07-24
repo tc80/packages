@@ -3,10 +3,7 @@
   "filename": "rx.dom.min.js",
   "title": "Reactive Extensions for JavaScript bindings for the HTML DOM",
   "description": "Library for using DOM elements as well as Ajax requests",
-  "author": {
-    "name": "MS Open Tech",
-    "url": "https://github.com/Reactive-Extensions/rxjs-dom/blob/master/authors.txt"
-  },
+  "author": "MS Open Tech",
   "repository": {
     "type": "git",
     "url": "https://github.com/Reactive-Extensions/rxjs-dom.git"

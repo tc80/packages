@@ -7,9 +7,7 @@
     "tabletop games",
     "game engine"
   ],
-  "author": {
-    "name": "nicolodavis@gmail.com"
-  },
+  "author": "nicolodavis@gmail.com",
   "license": "MIT",
   "homepage": "https://github.com/nicolodavis/boardgame.io#readme",
   "repository": {

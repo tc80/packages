@@ -14,10 +14,7 @@
     "url": "https://github.com/jquery/qunit.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "jQuery Foundation and other contributors",
-    "url": "https://github.com/jquery/qunit/blob/master/AUTHORS.txt"
-  },
+  "author": "jQuery Foundation and other contributors",
   "autoupdate": {
     "source": "npm",
     "target": "qunit",

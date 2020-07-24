@@ -14,9 +14,7 @@
     "charts",
     "html5"
   ],
-  "author": {
-    "name": "ZingChart"
-  },
+  "author": "ZingChart",
   "license": {
     "name": "ZingChart Branded License",
     "url": "https://www.zingchart.com/buy/details/branded-license/"

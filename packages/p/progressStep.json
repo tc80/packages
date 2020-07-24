@@ -2,10 +2,7 @@
   "name": "progressStep",
   "filename": "progressStep.min.js",
   "description": "Dynamically renders a progress bar with numbered steps.",
-  "author": {
-    "name": "Matthew Eagar",
-    "url": "https://github.com/mateagar/"
-  },
+  "author": "Matthew Eagar",
   "repository": {
     "type": "git",
     "url": "git://github.com/mateagar/progressStep.git"

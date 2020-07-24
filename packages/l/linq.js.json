@@ -6,10 +6,7 @@
     "json",
     "query"
   ],
-  "author": {
-    "name": "Mihai Ciuraru",
-    "email": "mihaixc@gmail.com"
-  },
+  "author": "Mihai Ciuraru <mihaixc@gmail.com>",
   "license": "MIT",
   "homepage": "http://linqjs.codeplex.com/",
   "repository": {

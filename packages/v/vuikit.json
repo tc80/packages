@@ -1,10 +1,7 @@
 {
   "name": "vuikit",
   "description": "UIkit with all the power of Vue",
-  "author": {
-    "name": "ZOOlanders",
-    "url": "http://www.zoolanders.com"
-  },
+  "author": "ZOOlanders",
   "keywords": [
     "library",
     "vue",

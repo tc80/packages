@@ -11,9 +11,7 @@
     "ui",
     "framework"
   ],
-  "author": {
-    "name": "Aresn"
-  },
+  "author": "Aresn",
   "license": "MIT",
   "homepage": "http://www.iviewui.com",
   "repository": {

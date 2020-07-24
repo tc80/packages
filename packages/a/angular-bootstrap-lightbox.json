@@ -14,10 +14,7 @@
     "url": "git://github.com/compact/angular-bootstrap-lightbox.git"
   },
   "homepage": "http://compact.github.io/angular-bootstrap-lightbox/",
-  "author": {
-    "name": "Chris Lui",
-    "url": "https://github.com/compact"
-  },
+  "author": "Chris Lui",
   "autoupdate": {
     "source": "npm",
     "target": "angular-bootstrap-lightbox",

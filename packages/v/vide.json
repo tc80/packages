@@ -18,11 +18,7 @@
     "type": "git",
     "url": "https://github.com/VodkaBears/Vide.git"
   },
-  "author": {
-    "name": "Ilya Makarov",
-    "email": "dfrost.00@gmail.com",
-    "url": "https://github.com/VodkaBears"
-  },
+  "author": "Ilya Makarov <dfrost.00@gmail.com>",
   "autoupdate": {
     "source": "npm",
     "target": "vide",

@@ -11,9 +11,7 @@
     "admin",
     "app"
   ],
-  "author": {
-    "name": "Start Bootstrap"
-  },
+  "author": "Start Bootstrap",
   "license": "MIT",
   "homepage": "https://startbootstrap.com/template-overviews/sb-admin",
   "repository": {

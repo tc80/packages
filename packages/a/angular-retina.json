@@ -2,10 +2,7 @@
   "name": "angular-retina",
   "filename": "angular-retina.min.js",
   "description": "Replace AngularJS directive 'ng-src' by a version which supports Retina displays",
-  "author": {
-    "name": "Jacob Rief",
-    "email": "jacob.rief@gmail.com"
-  },
+  "author": "Jacob Rief <jacob.rief@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/jrief/angular-retina.git"

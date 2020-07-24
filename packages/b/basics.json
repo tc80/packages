@@ -1,11 +1,7 @@
 {
   "name": "basics",
   "filename": "basics.css",
-  "author": {
-    "name": "Hayden Bleasel",
-    "email": "haydenbleasel@gmail.com",
-    "url": "http://haydenbleasel.com/"
-  },
+  "author": "Hayden Bleasel <haydenbleasel@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/haydenbleasel/basics.git",

@@ -2,11 +2,7 @@
   "name": "custombox",
   "filename": "custombox.min.js",
   "description": "Modal dialog effects with transitions CSS3",
-  "author": {
-    "name": "Julio de la Calle",
-    "email": "juliodlcp@gmail.com",
-    "url": "https://www.linkedin.com/in/juliodelacalle"
-  },
+  "author": "Julio de la Calle <juliodlcp@gmail.com>",
   "homepage": "https://dixso.github.io/custombox/",
   "keywords": [
     "animations",

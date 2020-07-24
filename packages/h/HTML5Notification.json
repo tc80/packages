@@ -2,10 +2,7 @@
   "name": "HTML5Notification",
   "filename": "Notification.min.js",
   "description": "Notification polyfill",
-  "author": {
-    "name": "Tsvetan Tsvetkov",
-    "email": "tsekach@gmail.com"
-  },
+  "author": "Tsvetan Tsvetkov <tsekach@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/ttsvetko/HTML5-Desktop-Notifications.git"

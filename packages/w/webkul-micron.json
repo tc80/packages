@@ -12,10 +12,7 @@
     "css",
     "js"
   ],
-  "author": {
-    "name": "Nitish Kumar",
-    "email": "support@webkul.com"
-  },
+  "author": "Nitish Kumar <support@webkul.com>",
   "license": "MIT",
   "filename": "script/micron.min.js",
   "repository": {

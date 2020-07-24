@@ -1,10 +1,7 @@
 {
   "name": "at.js",
   "filename": "js/jquery.atwho.min.js",
-  "author": {
-    "name": "chord.luo",
-    "email": "chord.luo@gmail.com"
-  },
+  "author": "chord.luo <chord.luo@gmail.com>",
   "homepage": "http://ichord.github.com/At.js",
   "repository": {
     "type": "git",

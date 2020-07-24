@@ -4,9 +4,7 @@
   "keywords": [
     "spotify"
   ],
-  "author": {
-    "name": "José M. Pérez"
-  },
+  "author": "José M. Pérez",
   "license": "MIT",
   "homepage": "https://github.com/JMPerez/spotify-web-api-js",
   "repository": {

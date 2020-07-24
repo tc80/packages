@@ -2,10 +2,7 @@
   "name": "viz.js",
   "filename": "viz.js",
   "description": "A hack to put Graphviz on the web.",
-  "author": {
-    "name": "Mike Daines",
-    "url": "https://github.com/mdaines"
-  },
+  "author": "Mike Daines",
   "repository": {
     "type": "git",
     "url": "git://github.com/mdaines/viz.js"

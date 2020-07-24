@@ -10,11 +10,7 @@
     "pdf",
     "pdfobject"
   ],
-  "author": {
-    "name": "Philip Hutchison",
-    "email": "philip@pipwerks.com",
-    "url": "http://pipwerks.com"
-  },
+  "author": "Philip Hutchison <philip@pipwerks.com>",
   "license": "MIT",
   "homepage": "https://pdfobject.com/",
   "autoupdate": {

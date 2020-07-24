@@ -14,10 +14,7 @@
     "virtual",
     "dom"
   ],
-  "author": {
-    "name": "dntzhang",
-    "email": "dntzhang@qq.com"
-  },
+  "author": "dntzhang <dntzhang@qq.com>",
   "license": "MIT",
   "homepage": "http://omijs.org/",
   "repository": {

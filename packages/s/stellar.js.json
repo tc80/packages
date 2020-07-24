@@ -3,10 +3,7 @@
   "filename": "jquery.stellar.min.js",
   "description": "Parallax scrolling made easy.",
   "homepage": "http://markdalgleish.com/projects/stellar.js",
-  "author": {
-    "name": "Mark Dalgleish",
-    "url": "http://markdalgleish.com"
-  },
+  "author": "Mark Dalgleish",
   "repository": {
     "type": "git",
     "url": "git://github.com/markdalgleish/stellar.js.git"

@@ -1,11 +1,7 @@
 {
   "name": "syn",
   "filename": "amd/syn.min.js",
-  "author": {
-    "name": "Bitovi",
-    "email": "contact@bitovi.com",
-    "web": "http://bitovi.com/"
-  },
+  "author": "Bitovi <contact@bitovi.com>",
   "repository": {
     "type": "git",
     "url": "git@github.com:bitovi/syn.git"

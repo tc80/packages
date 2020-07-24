@@ -10,11 +10,7 @@
     "glyphs"
   ],
   "homepage": "http://vorillaz.github.io/devicons/",
-  "author": {
-    "name": "Theodore Vorillas",
-    "email": "sayhi@vorillaz.com",
-    "web": "http://twitter.com/vorillas"
-  },
+  "author": "Theodore Vorillas <sayhi@vorillaz.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/vorillaz/devicons.git"

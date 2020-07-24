@@ -11,10 +11,7 @@
     "transition",
     "Viz.js"
   ],
-  "author": {
-    "name": "Magnus Jacobsson",
-    "url": "https://github.com/magjac"
-  },
+  "author": "Magnus Jacobsson",
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/magjac/d3-graphviz",
   "repository": {

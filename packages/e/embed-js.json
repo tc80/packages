@@ -15,11 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/ritz078/embed.js.git"
   },
-  "author": {
-    "name": "Ritesh Kumar",
-    "email": "rkritesh078@gmail.com",
-    "url": "https://github.com/ritz078"
-  },
+  "author": "Ritesh Kumar <rkritesh078@gmail.com>",
   "homepage": "http://riteshkr.com/embed.js",
   "license": "MIT",
   "autoupdate": {

@@ -2,10 +2,7 @@
   "name": "playlyfe-odysseus",
   "filename": "odysseus.min.js",
   "description": "Parse and build stories out of Playlyfe Events.",
-  "author": {
-    "name": "Kumar Harsh",
-    "email": "khs@playlyfe.com"
-  },
+  "author": "Kumar Harsh <khs@playlyfe.com>",
   "keywords": [
     "playlyfe",
     "gamification",

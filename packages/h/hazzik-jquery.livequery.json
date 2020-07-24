@@ -16,11 +16,7 @@
     "dom-events",
     "new-elements"
   ],
-  "author": {
-    "name": "Brandon Aaron",
-    "email": "brandon.aaron@gmail.com",
-    "url": "http://brandonaaron.net/"
-  },
+  "author": "Brandon Aaron <brandon.aaron@gmail.com>",
   "licenses": [
     "MIT",
     "GPL-2.0"

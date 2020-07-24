@@ -6,9 +6,7 @@
     "markdown",
     "editor"
   ],
-  "author": {
-    "name": "Pandao"
-  },
+  "author": "Pandao",
   "license": "MIT",
   "homepage": "https://github.com/pandao/editor.md",
   "repository": {

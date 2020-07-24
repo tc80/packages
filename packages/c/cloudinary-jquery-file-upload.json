@@ -5,11 +5,7 @@
     "type": "git",
     "url": "https://github.com/cloudinary/pkg-cloudinary-jquery-file-upload.git"
   },
-  "author": {
-    "name": "Cloudinary",
-    "email": "info@cloudinary.com",
-    "homepage": "http://cloudinary.com"
-  },
+  "author": "Cloudinary <info@cloudinary.com>",
   "license": "MIT",
   "keywords": [
     "cloudinary",

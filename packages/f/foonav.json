@@ -3,10 +3,7 @@
   "filename": "foonav.min.js",
   "description": "FooNav.js - Simple Navigation Plugin",
   "homepage": "https://fooplugins.com",
-  "author": {
-    "name": "FooPlugins",
-    "url": "http://fooplugins.com"
-  },
+  "author": "FooPlugins",
   "repository": {
     "type": "git",
     "url": "https://github.com/fooplugins/foonav.git"

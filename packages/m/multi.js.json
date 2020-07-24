@@ -10,10 +10,7 @@
     "select boxes",
     "search"
   ],
-  "author": {
-    "name": "Fabian Lindfors",
-    "url": "https://fabianlindfors.se"
-  },
+  "author": "Fabian Lindfors",
   "homepage": "https://fabianlindfors.se/multijs/",
   "repository": {
     "type": "git",

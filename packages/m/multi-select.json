@@ -8,11 +8,7 @@
     "multiple",
     "form"
   ],
-  "author": {
-    "name": "lou",
-    "email": "louiscuny@gmail.com",
-    "url": "https://github.com/lou"
-  },
+  "author": "lou <louiscuny@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -2,10 +2,7 @@
   "name": "jstreegrid",
   "filename": "jstreegrid.min.js",
   "description": "grid plugin for jstree",
-  "author": {
-    "name": "Avi Deitcher",
-    "url": "https://github.com/deitch"
-  },
+  "author": "Avi Deitcher",
   "keywords": [
     "jquery",
     "jstree",

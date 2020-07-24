@@ -10,10 +10,7 @@
     "highstocks",
     "highmaps"
   ],
-  "author": {
-    "name": "Barry Fitzgerald",
-    "url": "https://github.com/pablojim"
-  },
+  "author": "Barry Fitzgerald",
   "repository": {
     "type": "git",
     "url": "https://github.com/pablojim/highcharts-ng.git"

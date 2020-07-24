@@ -7,10 +7,7 @@
     "GIS",
     "WebGIS"
   ],
-  "author": {
-    "name": "zouyaoji",
-    "email": "370681295@qq.com"
-  },
+  "author": "zouyaoji <370681295@qq.com>",
   "license": "MIT",
   "homepage": "https://zouyaoji.top/vue-cesium",
   "repository": {

@@ -10,11 +10,7 @@
     "css",
     "anijs"
   ],
-  "author": {
-    "name": "Dariel Noel",
-    "email": "darielnoel@gmail.com",
-    "url": "https://github.com/darielnoel"
-  },
+  "author": "Dariel Noel <darielnoel@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/anijs/anijs.git",

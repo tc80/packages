@@ -6,10 +6,7 @@
     "geojson",
     "shapefile"
   ],
-  "author": {
-    "name": "Mike Bostock",
-    "url": "http://bost.ocks.org/mike"
-  },
+  "author": "Mike Bostock",
   "repository": {
     "type": "git",
     "url": "https://github.com/mbostock/topojson.git"

@@ -1,10 +1,7 @@
 {
   "name": "jinq",
   "filename": "jinqjs.min.js",
-  "author": {
-    "name": "Thomas Ford",
-    "email": "tomspostoffice@yahoo.com"
-  },
+  "author": "Thomas Ford <tomspostoffice@yahoo.com>",
   "description": "jinqJs provides you the ability to query, update and delete javaScript arrays using SQL like syntaxes and LINQ like expressions.",
   "keywords": [
     "LINQ",

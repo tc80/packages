@@ -13,11 +13,7 @@
     "webp"
   ],
   "homepage": "https://useiconic.com/open",
-  "author": {
-    "name": "Iconic",
-    "email": "yourfriends@useiconic.com",
-    "web": "http://useiconic.com/"
-  },
+  "author": "Iconic <yourfriends@useiconic.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/iconic/open-iconic.git"

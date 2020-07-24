@@ -5,9 +5,7 @@
     "mailgun",
     "email"
   ],
-  "author": {
-    "name": "Mailgun"
-  },
+  "author": "Mailgun",
   "license": "MIT",
   "homepage": "https://github.com/mailgun/mailgun-js#readme",
   "repository": {

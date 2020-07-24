@@ -37,11 +37,7 @@
     "Grid",
     "Tabs"
   ],
-  "author": {
-    "name": "Tommy Leunen",
-    "email": "tommy.leunen@gmail.com",
-    "url": "https://www.tommyleunen.com/"
-  },
+  "author": "Tommy Leunen <tommy.leunen@gmail.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

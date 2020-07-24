@@ -23,11 +23,7 @@
     "type": "git",
     "url": "git+https://github.com/mazedigital/Web-Ticker.git"
   },
-  "author": {
-    "name": "Jonathan Mifsud",
-    "email": "jon@maze.digital",
-    "url": "https://maze.digital"
-  },
+  "author": "Jonathan Mifsud <jon@maze.digital>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mazedigital/Web-Ticker.git",

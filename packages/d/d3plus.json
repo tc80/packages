@@ -12,11 +12,7 @@
     "data",
     "visualization"
   ],
-  "author": {
-    "name": "Dave Landry",
-    "email": "landry.dave@gmail.com",
-    "url": "http://www.dave-landry.com"
-  },
+  "author": "Dave Landry <landry.dave@gmail.com>",
   "license": "MIT",
   "homepage": "http://www.d3plus.org",
   "filename": "d3plus.min.js",

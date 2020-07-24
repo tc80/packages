@@ -3,11 +3,7 @@
   "filename": "lazy.min.js",
   "description": "Like Underscore, but lazier",
   "homepage": "http://dtao.github.io/lazy.js/",
-  "author": {
-    "name": "Dan Tao",
-    "email": "daniel.tao@gmail.com",
-    "url": "http://philosopherdeveloper.com"
-  },
+  "author": "Dan Tao <daniel.tao@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

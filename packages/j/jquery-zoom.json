@@ -27,9 +27,5 @@
     "type": "git",
     "url": "https://github.com/jackmoore/zoom.git"
   },
-  "author": {
-    "name": "Jack Moore",
-    "url": "http://www.jacklmoore.com",
-    "email": "hello@jacklmoore.com"
-  }
+  "author": "Jack Moore <hello@jacklmoore.com>"
 }

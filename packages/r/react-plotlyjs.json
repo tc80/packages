@@ -8,9 +8,7 @@
     "graph",
     "plot"
   ],
-  "author": {
-    "name": "Ben Jeffery"
-  },
+  "author": "Ben Jeffery",
   "license": "MIT",
   "homepage": "https://github.com/benjeffery/react-plotlyjs#readme",
   "repository": {

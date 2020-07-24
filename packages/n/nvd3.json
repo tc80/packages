@@ -9,10 +9,7 @@
     "charts"
   ],
   "homepage": "http://nvd3.org/",
-  "author": {
-    "name": "Novus Partners",
-    "url": "https://github.com/novus"
-  },
+  "author": "Novus Partners",
   "repository": {
     "type": "git",
     "url": "https://github.com/novus/nvd3.git"

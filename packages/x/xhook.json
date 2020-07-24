@@ -13,10 +13,7 @@
     "modify",
     "hook"
   ],
-  "author": {
-    "name": "Jaime Pillora",
-    "email": "dev@jpillora.com"
-  },
+  "author": "Jaime Pillora <dev@jpillora.com>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

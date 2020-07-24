@@ -12,10 +12,7 @@
     "ES.future",
     "ES.next"
   ],
-  "author": {
-    "name": "Andrea Giammarchi",
-    "web": "http://www.webreflection.co.uk/"
-  },
+  "author": "Andrea Giammarchi",
   "repository": {
     "type": "git",
     "url": "git://github.com/WebReflection/universal-mixin.git"

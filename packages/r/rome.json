@@ -8,11 +8,7 @@
     "date picker",
     "time picker"
   ],
-  "author": {
-    "name": "Nicolas Bevacqua",
-    "email": "hello@bevacqua.io",
-    "url": "http://ponyfoo.com"
-  },
+  "author": "Nicolas Bevacqua <hello@bevacqua.io>",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

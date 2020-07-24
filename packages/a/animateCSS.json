@@ -8,11 +8,7 @@
     "animation",
     "callbacks"
   ],
-  "author": {
-    "name": "Craig Dennis",
-    "email": "craigmdennis@gmail.com",
-    "url": "https://github.com/craigmdennis"
-  },
+  "author": "Craig Dennis <craigmdennis@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/craigmdennis/animateCSS.git"

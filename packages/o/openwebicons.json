@@ -2,11 +2,7 @@
   "name": "openwebicons",
   "filename": "css/openwebicons.min.css",
   "description": "OpenWeb Icons",
-  "author": {
-    "name": "Matthias Pfefferle",
-    "email": "pfefferle@gmail.com",
-    "url": "http://notizblog.org"
-  },
+  "author": "Matthias Pfefferle <pfefferle@gmail.com>",
   "homepage": "https://pfefferle.github.io/openwebicons/",
   "license": "OFL-1.1",
   "repository": {

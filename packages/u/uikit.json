@@ -4,11 +4,7 @@
   "filename": "js/uikit.min.js",
   "description": "UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
   "homepage": "http://www.getuikit.com",
-  "author": {
-    "name": "UIkit Team",
-    "email": "info@getuikit.com",
-    "url": "http://www.getuikit.com"
-  },
+  "author": "UIkit Team <info@getuikit.com>",
   "keywords": [
     "uikit",
     "css",

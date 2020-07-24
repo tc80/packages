@@ -6,10 +6,7 @@
     "type": "git",
     "url": "git://github.com/ericdrowell/concrete.git"
   },
-  "author": {
-    "name": "Eric Rowell",
-    "url": "https://twitter.com/ericdrowell"
-  },
+  "author": "Eric Rowell",
   "licenses": [
     "MIT",
     "GPL-2.0"

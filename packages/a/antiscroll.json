@@ -2,11 +2,7 @@
   "name": "antiscroll",
   "filename": "antiscroll.min.js",
   "description": "Antiscroll addresses this issue by providing a cross-browser implementation of the scrollbars popularized by OS X Lion that retains native properties.",
-  "author": {
-    "name": "Guillermo Rauch",
-    "email": "rauchg@gmail.com",
-    "url": "https://github.com/rauchg"
-  },
+  "author": "Guillermo Rauch <rauchg@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -28,8 +28,5 @@
     "url": "https://github.com/CSS-Tricks/AnythingSlider"
   },
   "license": "GPL-3.0",
-  "author": {
-    "name": "Chris Coyier",
-    "url": "https://github.com/chriscoyier"
-  }
+  "author": "Chris Coyier"
 }

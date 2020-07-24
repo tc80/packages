@@ -13,7 +13,5 @@
     "url": "https://github.com/ifightcrime/bootstrap-growl.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Nick Larson"
-  }
+  "author": "Nick Larson"
 }

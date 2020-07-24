@@ -19,9 +19,7 @@
     "actionsheet",
     "react-component"
   ],
-  "author": {
-    "name": "Kiran Abburi"
-  },
+  "author": "Kiran Abburi",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

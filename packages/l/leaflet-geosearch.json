@@ -9,10 +9,7 @@
     "geo",
     "map"
   ],
-  "author": {
-    "name": "Stephan Meijer",
-    "email": "stephan@meijer.ws"
-  },
+  "author": "Stephan Meijer <stephan@meijer.ws>",
   "license": "MIT",
   "homepage": "https://github.com/smeijer/leaflet-geosearch#readme",
   "repository": {

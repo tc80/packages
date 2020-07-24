@@ -9,9 +9,7 @@
   "keywords": [
     "doofinder"
   ],
-  "author": {
-    "name": "Kike Coslado"
-  },
+  "author": "Kike Coslado",
   "license": "MIT",
   "autoupdate": {
     "source": "git",

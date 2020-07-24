@@ -7,11 +7,7 @@
     "email",
     "spell check"
   ],
-  "author": {
-    "name": "Derrick Ko",
-    "url": "http://derrickko.com",
-    "email": "hello@derrickko.com"
-  },
+  "author": "Derrick Ko <hello@derrickko.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/mailcheck/mailcheck.git"

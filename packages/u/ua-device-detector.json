@@ -4,9 +4,7 @@
   "keywords": [
     "angularjs"
   ],
-  "author": {
-    "name": "srfrnk"
-  },
+  "author": "srfrnk",
   "license": "MIT",
   "homepage": "https://github.com/srfrnk/ua-device-detector",
   "repository": {

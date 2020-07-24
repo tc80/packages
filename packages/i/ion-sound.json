@@ -3,11 +3,7 @@
   "filename": "js/ion.sound.min.js",
   "description": "JavaScript plugin for playing sounds and music in web",
   "homepage": "http://ionden.com/a/plugins/ion.sound/en.html",
-  "author": {
-    "name": "Denis Ineshin",
-    "email": "ionden.tech@gmail.com",
-    "url": "IonDen"
-  },
+  "author": "Denis Ineshin <ionden.tech@gmail.com>",
   "keywords": [
     "sound",
     "sounds",

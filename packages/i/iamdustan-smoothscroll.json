@@ -2,11 +2,7 @@
   "title": "smoothscroll",
   "name": "iamdustan-smoothscroll",
   "filename": "smoothscroll.min.js",
-  "author": {
-    "name": "Dustan Kasten",
-    "email": "dustan.kasten@gmail.com",
-    "url": "https://iamdustan.com"
-  },
+  "author": "Dustan Kasten <dustan.kasten@gmail.com>",
   "description": "Polyfill for smooth scroll behavior",
   "repository": {
     "type": "git",

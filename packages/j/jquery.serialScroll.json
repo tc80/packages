@@ -13,11 +13,7 @@
     "prev",
     "next"
   ],
-  "author": {
-    "name": "Ariel Flesler",
-    "email": "aflesler@gmail.com",
-    "url": "http://flesler.blogspot.com"
-  },
+  "author": "Ariel Flesler <aflesler@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/flesler/jquery.serialScroll.git",

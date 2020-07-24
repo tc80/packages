@@ -4,11 +4,7 @@
   "description": "Reveal CSS animation as you scroll down a page",
   "keywords": [],
   "homepage": "http://mynameismatthieu.com/WOW/",
-  "author": {
-    "name": "Matthieu Aussaguel",
-    "email": "matthieu.aussaguel@gmail.com",
-    "url": "http://mynameismatthieu.com/"
-  },
+  "author": "Matthieu Aussaguel <matthieu.aussaguel@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/matthieua/WOW.git"

@@ -12,10 +12,7 @@
     "stroke",
     "animation"
   ],
-  "author": {
-    "name": "lmgonzalves",
-    "url": "https://github.com/lmgonzalves"
-  },
+  "author": "lmgonzalves",
   "license": "MIT",
   "autoupdate": {
     "source": "npm",

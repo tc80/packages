@@ -1,10 +1,7 @@
 {
   "name": "reading-time",
   "filename": "readingTime.min.js",
-  "author": {
-    "name": "Michael Lynch",
-    "url": "http://michaelynch.com"
-  },
+  "author": "Michael Lynch",
   "description": "A simple, lightweight jQuery plugin used to display an estimated time to read some text.",
   "keywords": [
     "reading",

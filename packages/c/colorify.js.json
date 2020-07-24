@@ -8,11 +8,7 @@
     "url": "https://github.com/LukyVj/Colorify.js"
   },
   "homepage": "http://colorify.rocks",
-  "author": {
-    "name": "Lucas Bonomi",
-    "email": "lucas.bonomi@gmail.com",
-    "url": "http://lucasbonomi.com"
-  },
+  "author": "Lucas Bonomi <lucas.bonomi@gmail.com>",
   "keywords": [
     "color",
     "colors",

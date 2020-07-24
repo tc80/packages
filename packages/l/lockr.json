@@ -2,10 +2,7 @@
   "name": "lockr",
   "filename": "lockr.min.js",
   "description": "Lockr is an extremely lightweight library (<2kb when minified), designed to facilitate how you interact with localStorage.",
-  "author": {
-    "name": "Dimitris Tsironis",
-    "email": "tsironis.dimitris@gmail.com"
-  },
+  "author": "Dimitris Tsironis <tsironis.dimitris@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/tsironis/lockr.git"

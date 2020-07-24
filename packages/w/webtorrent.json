@@ -15,11 +15,7 @@
     "webtorrent",
     "mad science"
   ],
-  "author": {
-    "name": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "http://feross.org/"
-  },
+  "author": "Feross Aboukhadijeh <feross@feross.org>",
   "repository": {
     "type": "git",
     "url": "https://github.com/feross/webtorrent.git"

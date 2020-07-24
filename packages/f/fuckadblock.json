@@ -2,11 +2,7 @@
   "name": "fuckadblock",
   "filename": "fuckadblock.min.js",
   "description": "Detects ad blockers (AdBlock, ...)",
-  "author": {
-    "name": "Valentin Allaire",
-    "email": "valentin.allaire@sitexw.fr",
-    "url": "http://sitexw.fr/"
-  },
+  "author": "Valentin Allaire <valentin.allaire@sitexw.fr>",
   "license": "MIT",
   "keywords": [
     "adblock",

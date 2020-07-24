@@ -10,10 +10,7 @@
     "type": "git",
     "url": "https://github.com/susielu/d3-legend.git"
   },
-  "author": {
-    "name": "Susie Lu",
-    "url": "http://www.susielu.com"
-  },
+  "author": "Susie Lu",
   "license": "ISC",
   "homepage": "http://d3-legend.susielu.com",
   "autoupdate": {

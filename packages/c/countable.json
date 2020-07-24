@@ -2,10 +2,7 @@
   "name": "countable",
   "filename": "Countable.min.js",
   "description": "Countable is a JavaScript library to add live paragraph-, word- and character-counting to an HTML element.",
-  "author": {
-    "name": "Sacha Schmid",
-    "email": "https://twitter.com/sachaschmid"
-  },
+  "author": "Sacha Schmid <https://twitter.com/sachaschmid>",
   "keywords": [
     "paragraphs",
     "words",

@@ -19,11 +19,7 @@
     "url": "https://github.com/Pixabay/JavaScript-autoComplete.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Simon Steinberger",
-    "url": "https://pixabay.com/users/Simon/",
-    "email": "simon@pixabay.com"
-  },
+  "author": "Simon Steinberger <simon@pixabay.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/Pixabay/JavaScript-autoComplete.git",

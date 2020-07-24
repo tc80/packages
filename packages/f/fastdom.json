@@ -7,10 +7,7 @@
     "DOM",
     "javascript"
   ],
-  "author": {
-    "name": "Wilson Page",
-    "email": "wilsonpage@me.com"
-  },
+  "author": "Wilson Page <wilsonpage@me.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/wilsonpage/fastdom.git"

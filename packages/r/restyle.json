@@ -8,10 +8,7 @@
     "CustomElement",
     "transformer"
   ],
-  "author": {
-    "name": "Andrea Giammarchi",
-    "web": "http://webreflection.blogspot.com/"
-  },
+  "author": "Andrea Giammarchi",
   "repository": {
     "type": "git",
     "url": "git://github.com/WebReflection/restyle.git"
